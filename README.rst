@@ -55,3 +55,21 @@ WGS
 
    Halldorsson B V, Eggertsson H P, Moore K H S, et al. The sequences of 150,119 genomes in the UK Biobank[J]. Nature, 2022, 607(7920): 732-740.
 
+
+`VerifyBamID2 <https://github.com/Griffan/VerifyBamID>`_
+######################################################################################################
+
+`Zhang F, Flickinger M, Taliun S A G, et al. Ancestry-agnostic estimation of DNA sample contamination from sequence reads[J]. Genome research, 2020, 30(2): 185-194. <https://genome.cshlp.org/content/30/2/185.short>`_
+
+`graphtyper <https://github.com/DecodeGenetics/graphtyper>`_
+####################################################################
+::
+
+    graphtyper is a graph-based variant caller capable of genotyping population-scale short read data sets.
+    It represents a reference genome and known variants of a genomic region using an acyclic graph structure (a "pangenome reference"), which high-throughput sequence reads are re-aligned to for the purpose of discovering and genotyping SNPs, small indels, and structural variants.
+
+`weCall <https://github.com/Genomicsplc/wecall>`_
+####################################################################
+::
+
+    weCall is a fast, accurate and simple to use command line tool for variant detection in Next Generation Sequencing (NGS) data.
