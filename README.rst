@@ -62,6 +62,8 @@ Get started with PopGen
 
 `Halldorsson B V, Eggertsson H P, Moore K H S, et al. The sequences of 150,119 genomes in the UK Biobank[J]. Nature, 2022, 607(7920): 732-740. <https://www.nature.com/articles/s41586-022-04965-x>`_
 
+`Rubinacci S, Hofmeister R, Sousa da Mota B, et al. Imputation of low-coverage sequencing data from 150,119 UK Biobank genomes[J]. bioRxiv, 2022: 2022.11. 28.518213. <https://www.biorxiv.org/content/10.1101/2022.11.28.518213v1.abstract>`_
+
 `VerifyBamID2 <https://github.com/Griffan/VerifyBamID>`_
 ######################################################################################################
 
