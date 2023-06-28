@@ -40,7 +40,7 @@ Get started with PopGen
     --cnv-enable-self-normalization=true \
     --vc-enable-joint-detection=true
 
-WES 相关
+关于WES
 ####################################################################
 
 `Van Hout, C. V. et al. Exome sequencing and characterization of 49,960 individuals in the UK Biobank. Nature 586, 749–756 (2020). <https://www.nature.com/articles/s41586-020-2853-0>`_
