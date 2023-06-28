@@ -43,12 +43,9 @@ Get started with PopGen
 
 WES 相关
 ####################################################################
-::
 
-    Van Hout, C. V. et al. Exome sequencing and characterization of 49,960 individuals in the UK Biobank. Nature 586, 749–756 (2020).
 
-Protocol for Processing UKB Whole Exome Sequencing Data Sets
-####################################################################
+`Van Hout, C. V. et al. Exome sequencing and characterization of 49,960 individuals in the UK Biobank. Nature 586, 749–756 (2020). <https://www.nature.com/articles/s41586-020-2853-0>`_
 
 `Protocol for Processing UKB Whole Exome Sequencing Data Sets:https://dnanexus.gitbook.io/uk-biobank-rap/science-corner/whole-exome-sequencing-oqfe-protocol/protocol-for-processing-ukb-whole-exome-sequencing-data-sets <https://dnanexus.gitbook.io/uk-biobank-rap/science-corner/whole-exome-sequencing-oqfe-protocol/protocol-for-processing-ukb-whole-exome-sequencing-data-sets>`_
 
@@ -56,7 +53,7 @@ Protocol for Processing UKB Whole Exome Sequencing Data Sets
 
 `Krasheninina O, Hwang Y C, Bai X, et al. Open-source mapping and variant calling for large-scale NGS data from original base-quality scores[J]. bioRxiv, 2020: 2020.12. 15.356360. <https://www.biorxiv.org/content/10.1101/2020.12.15.356360v1>`_
 
-download:`2022-uk-biobank-exome-release-faq.pdf <./2022-uk-biobank-exome-release-faq.pd>`_
+download:`2022-uk-biobank-exome-release-faq.pdf <./2022-uk-biobank-exome-release-faq.pdf>`_
 
 #.  关于WGS
 
