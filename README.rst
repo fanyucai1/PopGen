@@ -40,6 +40,8 @@ Get started with PopGen
     --cnv-enable-self-normalization=true \
     --vc-enable-joint-detection=true
 
+.. image:: dragen-popgen.png
+
 关于WES
 ####################################################################
 
