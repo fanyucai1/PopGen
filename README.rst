@@ -51,6 +51,8 @@ Protocol for Processing UKB Whole Exome Sequencing Data Sets
 
 `Krasheninina O, Hwang Y C, Bai X, et al. Open-source mapping and variant calling for large-scale NGS data from original base-quality scores[J]. bioRxiv, 2020: 2020.12. 15.356360. <https://www.biorxiv.org/content/10.1101/2020.12.15.356360v1>`_
 
+download:`2022-uk-biobank-exome-release-faq.pdf <./2022-uk-biobank-exome-release-faq.pd>`_
+
 WGS
 #################
 ::
