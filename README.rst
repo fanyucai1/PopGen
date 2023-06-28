@@ -1,7 +1,7 @@
 Get started with DRAGEN Germline for PopGen
 ################################################################################################
 
-.. image:: UK_Biobank.png
+.. image:: genetic-data-sept2022.jpg
 
 `UKBB Command Line for DRAGEN <https://developer.illumina.com/dragen/dragen-popgen>`_
 ::
