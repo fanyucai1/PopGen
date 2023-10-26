@@ -1,6 +1,12 @@
 Get started with PopGen
 ++++++++++++++++++++++++++++++
 
+`Illumina DRAGEN Resources for PopGen:https://developer.illumina.com/dragen/dragen-popgen <https://developer.illumina.com/dragen/dragen-popgen>`_
+
+`Accurate and efficient calling of small and large variants from popgen datasets using the DRAGEN Bio-IT Platform <https://sapac.illumina.com/science/genomics-research/articles/popgen-variant-calling-with-dragen.html>`_
+
+`DRAGEN reanalysis of the 1000 Genomes Dataset now available on the Registry of Open Data <https://aws.amazon.com/cn/blogs/industries/dragen-reanalysis-of-the-1000-genomes-dataset-now-available-on-the-registry-of-open-data/>`_
+
 `biobank主页:https://www.ukbiobank.ac.uk <https://www.ukbiobank.ac.uk>`_
 
 .. image:: genetic-data-sept2022.jpg
