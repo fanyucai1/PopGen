@@ -11,7 +11,6 @@ Get started with PopGen
 
 .. image:: genetic-data-sept2022.jpg
 
-
 `UKBB Command Line for DRAGEN <https://developer.illumina.com/dragen/dragen-popgen>`_
 ::
 
