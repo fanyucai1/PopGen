@@ -92,6 +92,9 @@ PopGen data processing and analysis workflows using the DRAGEN Platform (left) a
 
     weCall is a fast, accurate and simple to use command line tool for variant detection in Next Generation Sequencing (NGS) data.
 
+polygenic risk scores (PRS)
+####################################################################
+
 The PRSs were calculated using `PRSICE2:https://choishingwan.github.io/PRSice/ <https://choishingwan.github.io/PRSice/>`_ software
 
 `Collister J A, Liu X, Clifton L. Calculating polygenic risk scores (PRS) in UK Biobank: a practical guide for epidemiologists[J]. Frontiers in genetics, 2022, 13: 818574. <https://www.frontiersin.org/articles/10.3389/fgene.2022.818574/full>`_
