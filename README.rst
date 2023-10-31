@@ -91,3 +91,5 @@ PopGen data processing and analysis workflows using the DRAGEN Platform (left) a
 ::
 
     weCall is a fast, accurate and simple to use command line tool for variant detection in Next Generation Sequencing (NGS) data.
+
+The PRSs were calculated using `PRSICE2:https://choishingwan.github.io/PRSice/ <https://choishingwan.github.io/PRSice/>`_ software
