@@ -163,6 +163,10 @@ pharmacogenomics (PGx) analysis
 The effect of sequencing coverage on structural variation (SNV+CNV+SV) detection sensitivity
 ###########################################################################################################
 
+.. image:: heterozygous.png
+
+almost all homozygous SNVs are detected at a 15× average depth, an average depth of 33× is required to detect the same proportion of heterozygous SNVs
+
 ================================  ================================  ================================
 SNV                                 CNV                                 SV
 ================================  ================================  ================================
@@ -175,3 +179,4 @@ SNV                                 CNV                                 SV
 
 `Kucharík M, Budiš J, Hýblová M, et al. Copy number variant detection with low-coverage whole-genome sequencing represents a viable alternative to the conventional array-CGH[J]. Diagnostics, 2021, 11(4): 708. <https://www.mdpi.com/2075-4418/11/4/708>`_
 
+`Sims D, Sudbery I, Ilott N E, et al. Sequencing depth and coverage: key considerations in genomic analyses[J]. Nature Reviews Genetics, 2014, 15(2): 121-132. <https://www.nature.com/articles/nrg3642>`_
