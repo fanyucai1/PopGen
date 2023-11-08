@@ -125,7 +125,7 @@ polygenic risk scores (PRS)
 
 `Choi S W, Mak T S H, O’Reilly P F. Tutorial: a guide to performing polygenic risk score analyses[J]. Nature protocols, 2020, 15(9): 2759-2772. <https://www.nature.com/articles/s41596-020-0353-1>`_
 
-pangeome reference
+pangenome reference
 ####################################################################
 
 `Gao Y, Yang X, Chen H, et al. A pangenome reference of 36 Chinese populations[J]. Nature, 2023: 1-10. <https://www.nature.com/articles/s41586-023-06173-7>`_
