@@ -159,3 +159,13 @@ pharmacogenomics (PGx) analysis
 ####################################################################
 
 `Venner E, Muzny D, Smith J D, et al. Whole-genome sequencing as an investigational device for return of hereditary disease risk and pharmacogenomic results as part of the All of Us Research Program[J]. Genome Medicine, 2022, 14(1): 34. <https://link.springer.com/article/10.1186/s13073-022-01031-z>`_
+
+.. image:: snp.png
+================================  ================================  ================================
+SNV                                 CNV                                 SV
+================================  ================================  ================================
+.. image:: snp.png                 .. image:: CNV.png                  .. image:: SV.png
+================================  ================================  ================================
+
+`Yang L. A practical guide for structural variation detection in the human genome[J]. Current protocols in human genetics, 2020, 107(1): e103. <https://doi.org/10.1002/cphg.103>`_
+
