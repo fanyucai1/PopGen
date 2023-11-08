@@ -50,6 +50,7 @@ PopGen data processing and analysis workflows using the DRAGEN Platform (left) a
 
 .. image:: dragen-popgen.png
 
+`The GenomeAsia 100K Project enables genetic discoveries across Asia[J]. Nature, 2019, 576(7785): 106-111. <https://www.nature.com/articles/s41586-019-1793-z>`_
 
 `Tanjo T, Kawai Y, Tokunaga K, et al. Practical guide for managing large-scale human genome data in research[J]. Journal of Human Genetics, 2021, 66(1): 39-52. <https://www.nature.com/articles/s10038-020-00862-1>`_
 
