@@ -50,7 +50,7 @@ PopGen data processing and analysis workflows using the DRAGEN Platform (left) a
 
 .. image:: dragen-popgen.png
 
-biobank
+Biobank
 ########################################################################################################################################
 
 `The GenomeAsia 100K Project enables genetic discoveries across Asia[J]. Nature, 2019, 576(7785): 106-111. <https://www.nature.com/articles/s41586-019-1793-z>`_
