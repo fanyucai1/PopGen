@@ -165,7 +165,7 @@ The effect of sequencing coverage on structural variation (SNV+CNV+SV) detection
 
 .. image:: heterozygous.png
 
-almost all homozygous SNVs are detected at a 15× average depth, an average depth of 33× is required to detect the same proportion of heterozygous SNVs
+*almost all homozygous SNVs are detected at a 15× average depth, an average depth of 33× is required to detect the same proportion of heterozygous SNVs*
 
 ================================  ================================  ================================
 SNV                                 CNV                                 SV
