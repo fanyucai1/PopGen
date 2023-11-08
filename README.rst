@@ -53,6 +53,14 @@ PopGen data processing and analysis workflows using the DRAGEN Platform (left) a
 
 `Tanjo T, Kawai Y, Tokunaga K, et al. Practical guide for managing large-scale human genome data in research[J]. Journal of Human Genetics, 2021, 66(1): 39-52. <https://www.nature.com/articles/s10038-020-00862-1>`_
 
+`Cong P K, Bai W Y, Li J C, et al. Genomic analyses of 10,376 individuals in the Westlake BioBank for Chinese (WBBC) pilot project[J]. Nature Communications, 2022, 13(1): 2939. <https://www.nature.com/articles/s41467-022-30526-x>`_
+
+`Halldorsson B V, Eggertsson H P, Moore K H S, et al. The sequences of 150,119 genomes in the UK Biobank[J]. Nature, 2022, 607(7920): 732-740. <https://www.nature.com/articles/s41586-022-04965-x>`_
+
+`Byrska-Bishop M, Evani U S, Zhao X, et al. High-coverage whole-genome sequencing of the expanded 1000 Genomes Project cohort including 602 trios[J]. Cell, 2022, 185(18): 3426-3440. e19. <https://doi.org/10.1016/j.cell.2022.08.004>`_
+
+
+
 关于WES
 ####################################################################
 
@@ -69,15 +77,6 @@ PopGen data processing and analysis workflows using the DRAGEN Platform (left) a
 `Krasheninina O, Hwang Y C, Bai X, et al. Open-source mapping and variant calling for large-scale NGS data from original base-quality scores[J]. bioRxiv, 2020: 2020.12. 15.356360. <https://www.biorxiv.org/content/10.1101/2020.12.15.356360v1>`_
 
 `2022-uk-biobank-exome-release-faq.pdf <https://github.com/fanyucai1/PopGen/blob/main/2022-uk-biobank-exome-release-faq.pdf>`_
-
-关于WGS
-####################################################################
-
-`Venner E, Muzny D, Smith J D, et al. Whole-genome sequencing as an investigational device for return of hereditary disease risk and pharmacogenomic results as part of the All of Us Research Program[J]. Genome Medicine, 2022, 14(1): 34. <https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01031-z>`_
-
-`Halldorsson B V, Eggertsson H P, Moore K H S, et al. The sequences of 150,119 genomes in the UK Biobank[J]. Nature, 2022, 607(7920): 732-740. <https://www.nature.com/articles/s41586-022-04965-x>`_
-
-`Rubinacci S, Hofmeister R, Sousa da Mota B, et al. Imputation of low-coverage sequencing data from 150,119 UK Biobank genomes[J]. bioRxiv, 2022: 2022.11. 28.518213. <https://www.biorxiv.org/content/10.1101/2022.11.28.518213v1.abstract>`_
 
 `VerifyBamID2 <https://github.com/Griffan/VerifyBamID>`_
 ######################################################################################################
