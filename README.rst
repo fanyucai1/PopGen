@@ -42,7 +42,7 @@ Get started with PopGen
     --enable-sv=true \
     --enable-cnv=true \
     --cnv-enable-self-normalization=true \
-    --vc-enable-joint-detection=true \
+    --vc-enable-joint-detection=true
 
 PopGen data processing and analysis workflows using the DRAGEN Platform (left) and GATK best practices (right) workflows
 ########################################################################################################################################
