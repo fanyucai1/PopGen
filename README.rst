@@ -80,13 +80,13 @@ Biobank
 
 `Jain A, Bhoyar R C, Pandhare K, et al. IndiGenomes: a comprehensive resource of genetic variants from over 1000 Indian genomes[J]. Nucleic Acids Research, 2021, 49(D1): D1225-D1232. <https://academic.oup.com/nar/article/49/D1/D1225/5937082?login=true>`_
 
-`SG10K:Wu D, Dou J, Chai X, et al. Large-scale whole-genome sequencing of three diverse Asian populations in Singapore[J]. Cell, 2019, 179(3): 736-749. e15. <https://www.cell.com/cell/pdf/S0092-8674(19)31070-0.pdf>`_
-
 `Carress H, Lawson D J, Elhaik E. Population genetic considerations for using biobanks as international resources in the pandemic era and beyond[J]. BMC genomics, 2021, 22(1): 1-19. <https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07618-x>`_
 
-`SG10K_med:Wong E, Bertin N, Hebrard M, et al. The Singapore National Precision Medicine Strategy[J]. Nature Genetics, 2023, 55(2): 178-186. <https://www.nature.com/articles/s41588-022-01274-x#Sec11>`_
+`SG10K:Wu D, Dou J, Chai X, et al. Large-scale whole-genome sequencing of three diverse Asian populations in Singapore[J]. Cell, 2019, 179(3): 736-749. e15. <https://www.cell.com/cell/pdf/S0092-8674(19)31070-0.pdf>`_
 
-`SG10K_Health:Chan S H, Bylstra Y, Teo J X, et al. Analysis of clinically relevant variants from ancestrally diverse Asian genomes[J]. Nature Communications, 2022, 13(1): 6694. <https://www.nature.com/articles/s41467-022-34116-9>`_
+`SG10K_Health:Wong E, Bertin N, Hebrard M, et al. The Singapore National Precision Medicine Strategy[J]. Nature Genetics, 2023, 55(2): 178-186. <https://www.nature.com/articles/s41588-022-01274-x#Sec11>`_
+
+`SG10K_med:Chan S H, Bylstra Y, Teo J X, et al. Analysis of clinically relevant variants from ancestrally diverse Asian genomes[J]. Nature Communications, 2022, 13(1): 6694. <https://www.nature.com/articles/s41467-022-34116-9>`_
 
 关于WES
 ####################################################################
