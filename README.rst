@@ -86,8 +86,7 @@ Biobank
 
 `SG10K_med:Wong E, Bertin N, Hebrard M, et al. The Singapore National Precision Medicine Strategy[J]. Nature Genetics, 2023, 55(2): 178-186. <https://www.nature.com/articles/s41588-022-01274-x#Sec11>`_
 
-`SG10K_Health:Chan S H, Bylstra Y, Teo J X, et al. Analysis of clinically relevant variants from ancestrally diverse Asian genomes[J]. Nature Communications, 2022, 13(1): 6694. <>`_
-
+`SG10K_Health:Chan S H, Bylstra Y, Teo J X, et al. Analysis of clinically relevant variants from ancestrally diverse Asian genomes[J]. Nature Communications, 2022, 13(1): 6694. <https://www.nature.com/articles/s41467-022-34116-9>`_
 
 关于WES
 ####################################################################
