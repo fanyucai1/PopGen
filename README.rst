@@ -123,7 +123,7 @@ Biobank
 
     weCall is a fast, accurate and simple to use command line tool for variant detection in Next Generation Sequencing (NGS) data.
 
-polygenic risk scores (PRS)
+GWAS+polygenic risk scores (PRS)
 ####################################################################
 
 `PRSICE2:https://choishingwan.github.io/PRSice/ <https://choishingwan.github.io/PRSice/>`_
