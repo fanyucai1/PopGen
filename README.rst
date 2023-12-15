@@ -128,6 +128,14 @@ polygenic risk scores (PRS)
 
 `PRSICE2:https://choishingwan.github.io/PRSice/ <https://choishingwan.github.io/PRSice/>`_
 
+`https://github.com/MareesAT/GWA_tutorial/ <https://github.com/MareesAT/GWA_tutorial/>`_
+
+`https://choishingwan.github.io/PRS-Tutorial/ <https://choishingwan.github.io/PRS-Tutorial/>`_
+
+`https://2cjenn.github.io/PRS_Pipeline/ <https://2cjenn.github.io/PRS_Pipeline/>`_
+
+`https://gwaslab.org/ <https://gwaslab.org/>`_
+
 `Collister J A, Liu X, Clifton L. Calculating polygenic risk scores (PRS) in UK Biobank: a practical guide for epidemiologists[J]. Frontiers in genetics, 2022, 13: 818574. <https://www.frontiersin.org/articles/10.3389/fgene.2022.818574/full>`_
 
 `Choi S W, Mak T S H, O’Reilly P F. Tutorial: a guide to performing polygenic risk score analyses[J]. Nature protocols, 2020, 15(9): 2759-2772. <https://www.nature.com/articles/s41596-020-0353-1>`_
