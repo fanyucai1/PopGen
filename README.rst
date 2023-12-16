@@ -108,7 +108,6 @@ Biobank
 
 `VerifyBamID2 <https://github.com/Griffan/VerifyBamID>`_
 ######################################################################################################
-
 `Zhang F, Flickinger M, Taliun S A G, et al. Ancestry-agnostic estimation of DNA sample contamination from sequence reads[J]. Genome research, 2020, 30(2): 185-194. <https://genome.cshlp.org/content/30/2/185.short>`_
 
 `graphtyper <https://github.com/DecodeGenetics/graphtyper>`_
@@ -151,7 +150,6 @@ pangenome reference
 
 created a reference panel
 ####################################################################
-
 `Choi J, Kim S, Kim J, et al. A whole-genome reference panel of 14,393 individuals for East Asian populations accelerates discovery of rare functional variants[J]. Science Advances, 2023, 9(32): eadg6319. <https://www.science.org/doi/full/10.1126/sciadv.adg6319>`_
 
 `Tian Z, Chen F, Wang J, et al. CAS Array: design and assessment of a genotyping array for Chinese biobanking[J]. Precision Clinical Medicine, 2023, 6(1): pbad002. <https://academic.oup.com/pcm/article/6/1/pbad002/7055961>`_
@@ -166,26 +164,22 @@ created a reference panel
 
 Population Haplotyping
 ####################################################################
-
 `SHAPEIT5: https://odelaneau.github.io/shapeit5/ <https://odelaneau.github.io/shapeit5/>`_
 
 `Hofmeister R J, Ribeiro D M, Rubinacci S, et al. Accurate rare variant phasing of whole-genome and whole-exome sequencing data in the UK Biobank[J]. Nature Genetics, 2023, 55(7): 1243-1249. <https://www.nature.com/articles/s41588-023-01415-w>`_
 
 STR
 ####################################################################
-
 `Shi Y, Niu Y, Zhang P, et al. Characterization of genome-wide STR variation in 6487 human genomes[J]. Nature Communications, 2023, 14(1): 2092. <https://www.nature.com/articles/s41467-023-37690-8>`_
 
 `Li Y, DeVito R, Mousavi N, et al. A deep population reference panel of tandem repeat variation[J]. Nature Communications, 2023, 14(1): 6711-6711. <https://www.nature.com/articles/s41467-023-42278-3>`_
 
 专病队列
 ####################################################################
-
 `Taliun D, Harris D N, Kessler M D, et al. Sequencing of 53,831 diverse genomes from the NHLBI TOPMed Program[J]. Nature, 2021, 590(7845): 290-299. <https://www.nature.com/articles/s41586-021-03205-y>`_
 
 pharmacogenomics (PGx) analysis
 ####################################################################
-
 `Venner E, Muzny D, Smith J D, et al. Whole-genome sequencing as an investigational device for return of hereditary disease risk and pharmacogenomic results as part of the All of Us Research Program[J]. Genome Medicine, 2022, 14(1): 34. <https://link.springer.com/article/10.1186/s13073-022-01031-z>`_
 
 The effect of sequencing coverage on structural variation (SNV+CNV+SV) detection sensitivity
@@ -211,6 +205,5 @@ SNV                                 CNV                                 SV
 
 long-read sequencing for All of Us
 ####################################################################
-
 `Mahmoud M, Huang Y, Garimella K, et al. Utility of long-read sequencing for All of Us[J]. bioRxiv, 2023: 2023.01. 23.525236. <https://www.biorxiv.org/content/10.1101/2023.01.23.525236v1.abstract>`_
 
