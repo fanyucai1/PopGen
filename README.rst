@@ -1,6 +1,5 @@
 Get started with PopGen
 ++++++++++++++++++++++++++++++
-
 `Illumina DRAGEN Resources for PopGen:https://developer.illumina.com/dragen/dragen-popgen <https://developer.illumina.com/dragen/dragen-popgen>`_
 
 `Accurate and efficient calling of small and large variants from popgen datasets using the DRAGEN Bio-IT Platform <https://sapac.illumina.com/science/genomics-research/articles/popgen-variant-calling-with-dragen.html>`_
@@ -69,7 +68,6 @@ Practical guide
 
 Biobank
 ########################################################################################################################################
-
 `The GenomeAsia 100K Project enables genetic discoveries across Asia[J]. Nature, 2019, 576(7785): 106-111. <https://www.nature.com/articles/s41586-019-1793-z>`_
 
 `Westlake BioBank:Cong P K, Bai W Y, Li J C, et al. Genomic analyses of 10,376 individuals in the Westlake BioBank for Chinese (WBBC) pilot project[J]. Nature Communications, 2022, 13(1): 2939. <https://www.nature.com/articles/s41467-022-30526-x>`_
@@ -90,7 +88,6 @@ Biobank
 
 关于WES
 ####################################################################
-
 `Van Hout, C. V. et al. Exome sequencing and characterization of 49,960 individuals in the UK Biobank. Nature 586, 749–756 (2020). <https://www.nature.com/articles/s41586-020-2853-0>`_
 
 `Wang Q, Dhindsa R S, Carss K, et al. Rare variant contribution to human disease in 281,104 UK Biobank exomes[J]. Nature, 2021, 597(7877): 527-532. <https://www.nature.com/articles/s41586-021-03855-y>`_
@@ -124,7 +121,6 @@ Biobank
 
 GWAS
 ####################################################################
-
 `https://github.com/MareesAT/GWA_tutorial/ <https://github.com/MareesAT/GWA_tutorial/>`_
 
 `https://gwaslab.org/ <https://gwaslab.org/>`_
@@ -147,7 +143,6 @@ polygenic risk scores (PRS)
 
 pangenome reference
 ####################################################################
-
 `Deng L, Xie B, Wang Y, et al. A protocol for applying a population-specific reference genome assembly to population genetics and medical studies[J]. STAR protocols, 2022, 3(2): 101440. <https://www.sciencedirect.com/science/article/pii/S2666166722003203>`_
 
 `Gao Y, Yang X, Chen H, et al. A pangenome reference of 36 Chinese populations[J]. Nature, 2023: 1-10. <https://www.nature.com/articles/s41586-023-06173-7>`_
