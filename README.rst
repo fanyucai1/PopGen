@@ -214,7 +214,6 @@ SNV                                 CNV                                 SV
 
 `Kucharík M, Budiš J, Hýblová M, et al. Copy number variant detection with low-coverage whole-genome sequencing represents a viable alternative to the conventional array-CGH[J]. Diagnostics, 2021, 11(4): 708. <https://www.mdpi.com/2075-4418/11/4/708>`_
 
-
 long-read sequencing for All of Us
 ####################################################################
 
