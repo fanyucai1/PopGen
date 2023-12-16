@@ -119,7 +119,8 @@ Biobank
 ::
 
     graphtyper is a graph-based variant caller capable of genotyping population-scale short read data sets.
-    It represents a reference genome and known variants of a genomic region using an acyclic graph structure (a "pangenome reference"), which high-throughput sequence reads are re-aligned to for the purpose of discovering and genotyping SNPs, small indels, and structural variants.
+    It represents a reference genome and known variants of a genomic region using an acyclic graph structure (a "pangenome reference"),
+    which high-throughput sequence reads are re-aligned to for the purpose of discovering and genotyping SNPs, small indels, and structural variants.
 
 GWAS
 ####################################################################
