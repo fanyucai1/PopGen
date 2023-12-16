@@ -105,6 +105,10 @@ Biobank
 
 `2022-uk-biobank-exome-release-faq.pdf <https://github.com/fanyucai1/PopGen/blob/main/2022-uk-biobank-exome-release-faq.pdf>`_
 
+`Backman J D, Li A H, Marcketta A, et al. Exome sequencing and analysis of 454,787 UK Biobank participants[J]. Nature, 2021, 599(7886): 628-634. <https://www.nature.com/articles/s41586-021-04103-z>`_
+
+`weCall is a fast, accurate and simple to use command line tool for variant detection in Next Generation Sequencing (NGS) data. <https://github.com/Genomicsplc/wecall>`_
+
 `VerifyBamID2 <https://github.com/Griffan/VerifyBamID>`_
 ######################################################################################################
 
@@ -116,12 +120,6 @@ Biobank
 
     graphtyper is a graph-based variant caller capable of genotyping population-scale short read data sets.
     It represents a reference genome and known variants of a genomic region using an acyclic graph structure (a "pangenome reference"), which high-throughput sequence reads are re-aligned to for the purpose of discovering and genotyping SNPs, small indels, and structural variants.
-
-`weCall <https://github.com/Genomicsplc/wecall>`_
-####################################################################
-::
-
-    weCall is a fast, accurate and simple to use command line tool for variant detection in Next Generation Sequencing (NGS) data.
 
 GWAS
 ####################################################################
