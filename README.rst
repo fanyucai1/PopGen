@@ -210,8 +210,13 @@ long-read sequencing for All of Us
 bioinformatics
 #######################
 `Westlake BioBank for Chinese pilot project:https://github.com/peikuan/WBBC <https://github.com/peikuan/WBBC>`_
+
 `All of Us Research Program:https://github.com/all-of-us <https://github.com/all-of-us>`_
+
 `UK Biobank:https://github.com/UK-Biobank <https://github.com/UK-Biobank>`_
+
 `UKBseq500k-methods:https://github.com/UKBseq500k-methods <https://github.com/UKBseq500k-methods>`_
+
 `SG10K_Med:https://github.com/csockhoai/SG10KMed <https://github.com/csockhoai/SG10KMed>`_
+
 `SG10K_Health:https://github.com/c-BIG/sg10k-health/tree/main <https://github.com/c-BIG/sg10k-health/tree/main>`_
