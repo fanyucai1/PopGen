@@ -123,18 +123,22 @@ Biobank
 
     weCall is a fast, accurate and simple to use command line tool for variant detection in Next Generation Sequencing (NGS) data.
 
-GWAS+polygenic risk scores (PRS)
+GWAS
 ####################################################################
-
-`PRSICE2:https://choishingwan.github.io/PRSice/ <https://choishingwan.github.io/PRSice/>`_
 
 `https://github.com/MareesAT/GWA_tutorial/ <https://github.com/MareesAT/GWA_tutorial/>`_
 
+`https://gwaslab.org/ <https://gwaslab.org/>`_
+
+`Gaynor S M, Joseph T, Bai X, et al. Yield of genetic association signals from genomes, exomes, and imputation in the UK biobank[J]. medRxiv, 2023: 2023.09. 13.23295479. <https://www.medrxiv.org/content/10.1101/2023.09.13.23295479v1>`_
+
+polygenic risk scores (PRS)
+####################################################################
 `https://choishingwan.github.io/PRS-Tutorial/ <https://choishingwan.github.io/PRS-Tutorial/>`_
 
 `https://2cjenn.github.io/PRS_Pipeline/ <https://2cjenn.github.io/PRS_Pipeline/>`_
 
-`https://gwaslab.org/ <https://gwaslab.org/>`_
+`PRSICE2:https://choishingwan.github.io/PRSice/ <https://choishingwan.github.io/PRSice/>`_
 
 `Collister J A, Liu X, Clifton L. Calculating polygenic risk scores (PRS) in UK Biobank: a practical guide for epidemiologists[J]. Frontiers in genetics, 2022, 13: 818574. <https://www.frontiersin.org/articles/10.3389/fgene.2022.818574/full>`_
 
