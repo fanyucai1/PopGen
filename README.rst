@@ -118,11 +118,15 @@ Biobank
     It represents a reference genome and known variants of a genomic region using an acyclic graph structure (a "pangenome reference"),
     which high-throughput sequence reads are re-aligned to for the purpose of discovering and genotyping SNPs, small indels, and structural variants.
 
-GWAS
+GWAS(Association analyses)
 ####################################################################
 `https://github.com/MareesAT/GWA_tutorial/ <https://github.com/MareesAT/GWA_tutorial/>`_
 
+`Marees A T, de Kluiver H, Stringer S, et al. A tutorial on conducting genome‐wide association studies: Quality control and statistical analysis[J]. International journal of methods in psychiatric research, 2018, 27(2): e1608. <https://onlinelibrary.wiley.com/doi/full/10.1002/mpr.1608>`_
+
 `https://gwaslab.org/ <https://gwaslab.org/>`_
+
+**All association analyses were performed using REGENIE**,excluded variants with Hardy-Weinberg equilibrium (HWE) test P > 1 x 10-15 and >10% missingness.
 
 `Gaynor S M, Joseph T, Bai X, et al. Yield of genetic association signals from genomes, exomes, and imputation in the UK biobank[J]. medRxiv, 2023: 2023.09. 13.23295479. <https://www.medrxiv.org/content/10.1101/2023.09.13.23295479v1>`_
 
@@ -167,7 +171,7 @@ Population Haplotyping
 
 **common variant phasing** (MAF >=0.1%) and **rare variants** (MAF<0.1%)
 
-**Singleton phasing**
+**Singleton phasing(singleton variants (minor allele count (MAC) of 1))**
 
 This is a well-known limitation of all statistical phasing methods. SHAPEIT5 can provide inference at these sites by using the Viterbi algorithm for the Li and Stephens model, to obtain the longest shared IBD segment between each one of the two target haplotypes and the conditioning haplotypes.
 
