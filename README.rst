@@ -166,7 +166,7 @@ created a reference panel
 
 `Shi S, Rubinacci S, Hu S, et al. A Genomics England haplotype reference panel and the imputation of the UK Biobank[J]. medRxiv, 2023: 2023.11. 06.23298035. <https://www.medrxiv.org/content/10.1101/2023.11.06.23298035v1>`_
 
-Population Haplotyping
+Population phasing
 ####################################################################
 
 **common variant phasing** (MAF >=0.1%) and **rare variants** (MAF<0.1%)
