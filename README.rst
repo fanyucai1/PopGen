@@ -110,13 +110,18 @@ Biobank
 ######################################################################################################
 `Zhang F, Flickinger M, Taliun S A G, et al. Ancestry-agnostic estimation of DNA sample contamination from sequence reads[J]. Genome research, 2020, 30(2): 185-194. <https://genome.cshlp.org/content/30/2/185.short>`_
 
-`graphtyper <https://github.com/DecodeGenetics/graphtyper>`_
+genotyping
 ####################################################################
+`graphtyper <https://github.com/DecodeGenetics/graphtyper>`_
 ::
 
     graphtyper is a graph-based variant caller capable of genotyping population-scale short read data sets.
     It represents a reference genome and known variants of a genomic region using an acyclic graph structure (a "pangenome reference"),
     which high-throughput sequence reads are re-aligned to for the purpose of discovering and genotyping SNPs, small indels, and structural variants.
+
+`Eggertsson H P, Jonsson H, Kristmundsdottir S, et al. Graphtyper enables population-scale genotyping using pangenome graphs[J]. Nature genetics, 2017, 49(11): 1654-1660. <https://www.nature.com/articles/ng.3964>`_
+
+`Eggertsson H P, Kristmundsdottir S, Beyter D, et al. GraphTyper2 enables population-scale genotyping of structural variation using pangenome graphs[J]. Nature communications, 2019, 10(1): 5402. <https://www.nature.com/articles/s41467-019-13341-9>`_
 
 GWAS(Association analyses)
 ####################################################################
