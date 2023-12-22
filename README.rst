@@ -165,7 +165,11 @@ created a reference panel
 Population Haplotyping
 ####################################################################
 
-common variant phasing (MAF >=0.1%) and rare variants (MAF<0.1%)
+**common variant phasing** (MAF >=0.1%) and **rare variants** (MAF<0.1%)
+
+**Singleton phasing**
+
+This is a well-known limitation of all statistical phasing methods. SHAPEIT5 can provide inference at these sites by using the Viterbi algorithm for the Li and Stephens model, to obtain the longest shared IBD segment between each one of the two target haplotypes and the conditioning haplotypes.
 
 `SHAPEIT5: https://odelaneau.github.io/shapeit5/ <https://odelaneau.github.io/shapeit5/>`_
 
