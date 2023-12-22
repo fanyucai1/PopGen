@@ -106,9 +106,18 @@ Biobank
 
 `weCall is a fast, accurate and simple to use command line tool for variant detection in Next Generation Sequencing (NGS) data. <https://github.com/Genomicsplc/wecall>`_
 
-`VerifyBamID2 <https://github.com/Griffan/VerifyBamID>`_
+contamination
 ######################################################################################################
+`VerifyBamID2:https://github.com/Griffan/VerifyBamID <https://github.com/Griffan/VerifyBamID>`_
+
 `Zhang F, Flickinger M, Taliun S A G, et al. Ancestry-agnostic estimation of DNA sample contamination from sequence reads[J]. Genome research, 2020, 30(2): 185-194. <https://genome.cshlp.org/content/30/2/185.short>`_
+
+`read_haps:https://github.com/DecodeGenetics/read_haps <https://github.com/DecodeGenetics/read_haps>`_
+
+`Eggertsson H P, Halldorsson B V. read_haps: using read haplotypes to detect same species contamination in DNA sequences[J]. Bioinformatics, 2021, 37(15): 2215-2217. <https://academic.oup.com/bioinformatics/article/37/15/2215/5948993>`_
+
+`UK Biobank Whole-Genome Sequencing Consortium, Li S, Carss K J, et al. Whole-genome sequencing of half-a-million UK Biobank participants[J]. medRxiv, 2023: 2023.12. 06.23299426. <https://www.medrxiv.org/content/10.1101/2023.12.06.23299426v1>`_
+
 
 genotyping
 ####################################################################
@@ -190,7 +199,7 @@ This is a well-known limitation of all statistical phasing methods. SHAPEIT5 can
 
 The pipeline uses **BCFtools** for marker filtering, **Beagle** for genotype phasing, and Tabix for VCF indexing.The pipeline’s QC filter excludes markers with AAScore <=0.95, markers with >=5% missing data, and non-SNV markers.
 
-`https://github.com/browning-lab/ukb-phasing/ <https://github.com/browning-lab/ukb-phasing/>`_
+`ukb-phasing:https://github.com/browning-lab/ukb-phasing/ <https://github.com/browning-lab/ukb-phasing/>`_
 
 `Browning B L, Browning S R. Statistical phasing of 150,119 sequenced genomes in the UK Biobank[J]. The American Journal of Human Genetics, 2023, 110(1): 161-165. <https://www.cell.com/ajhg/pdf/S0002-9297(22)00499-2.pdf>`_
 
