@@ -168,6 +168,8 @@ Population Haplotyping
 
 `Hofmeister R J, Ribeiro D M, Rubinacci S, et al. Accurate rare variant phasing of whole-genome and whole-exome sequencing data in the UK Biobank[J]. Nature Genetics, 2023, 55(7): 1243-1249. <https://www.nature.com/articles/s41588-023-01415-w>`_
 
+The pipeline uses BCFtools for marker filtering, Beagle for genotype phasing, and Tabix for VCF indexing.The pipeline’s QC filter excludes markers with AAScore % 0.95, markers with R 5% missing data, and non-SNV markers.
+
 `https://github.com/browning-lab/ukb-phasing/ <https://github.com/browning-lab/ukb-phasing/>`_
 
 `Browning B L, Browning S R. Statistical phasing of 150,119 sequenced genomes in the UK Biobank[J]. The American Journal of Human Genetics, 2023, 110(1): 161-165. <https://www.cell.com/ajhg/pdf/S0002-9297(22)00499-2.pdf>`_
