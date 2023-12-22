@@ -130,6 +130,10 @@ GWAS(Association analyses)
 
 `Gaynor S M, Joseph T, Bai X, et al. Yield of genetic association signals from genomes, exomes, and imputation in the UK biobank[J]. medRxiv, 2023: 2023.09. 13.23295479. <https://www.medrxiv.org/content/10.1101/2023.09.13.23295479v1>`_
 
+`REGENIE (https://rgcgithub.github.io/regenie/) <https://rgcgithub.github.io/regenie/>`_
+
+`Mbatchou, J., Barnard, L., Backman, J. et al. Computationally efficient whole-genome regression for quantitative and binary traits. Nat Genet 53, 1097–1103 (2021). <https://doi.org/10.1038/s41588-021-00870-7>`_
+
 `Bycroft C, Freeman C, Petkova D, et al. The UK Biobank resource with deep phenotyping and genomic data[J]. Nature, 2018, 562(7726): 203-209. <https://www.nature.com/articles/s41586-018-0579-z>`_
 
 polygenic risk scores (PRS)
@@ -166,7 +170,7 @@ created a reference panel
 
 `Shi S, Rubinacci S, Hu S, et al. A Genomics England haplotype reference panel and the imputation of the UK Biobank[J]. medRxiv, 2023: 2023.11. 06.23298035. <https://www.medrxiv.org/content/10.1101/2023.11.06.23298035v1>`_
 
-Population phasing
+phasing
 ####################################################################
 
 **common variant phasing** (MAF >=0.1%) and **rare variants** (MAF<0.1%)
