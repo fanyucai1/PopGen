@@ -108,6 +108,13 @@ Biobank
 
 `weCall is a fast, accurate and simple to use command line tool for variant detection in Next Generation Sequencing (NGS) data. <https://github.com/Genomicsplc/wecall>`_
 
+Medical_genes
+####################################################################
+`Wagner J, Olson N D, Harris L, et al. Curated variation benchmarks for challenging medically relevant autosomal genes[J]. Nature biotechnology, 2022, 40(5): 672-680. <https://www.nature.com/articles/s41587-021-01158-1>`_
+
+.. image:: Medical_genes/Medical_genes.png
+
+
 contamination
 ######################################################################################################
 `VerifyBamID2:https://github.com/Griffan/VerifyBamID <https://github.com/Griffan/VerifyBamID>`_
