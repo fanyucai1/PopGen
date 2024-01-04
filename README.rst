@@ -241,7 +241,7 @@ pharmacogenomics (PGx) analysis
 The effect of sequencing coverage on structural variation (SNV+CNV+SV) detection sensitivity
 ###########################################################################################################
 
-.. image:: heterozygous.png
+.. image:: png/heterozygous.png
 
 *almost all homozygous SNVs are detected at a 15× average depth, an average depth of 33× is required to detect the same proportion of heterozygous SNVs*
 
