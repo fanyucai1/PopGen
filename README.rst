@@ -225,15 +225,19 @@ rare disease and cancer
 ####################################################################
 `Taliun D, Harris D N, Kessler M D, et al. Sequencing of 53,831 diverse genomes from the NHLBI TOPMed Program[J]. Nature, 2021, 590(7845): 290-299. <https://www.nature.com/articles/s41586-021-03205-y>`_
 
-.. image:: ./Disease_Cohort_Research/China_Kadoorie_Biobank_Study.jpeg
+.. image:: ./rare_disease_cancer/China_Kadoorie_Biobank_Study.jpeg
 
 `Yu C, Lan X, Tao Y, et al. A high-resolution haplotype-resolved Reference panel constructed from the China Kadoorie Biobank Study[J]. Nucleic Acids Research, 2023, 51(21): 11770-11782. <https://academic.oup.com/nar/article/51/21/11770/7327062>`_
 
-.. image:: ./Disease_Cohort_Research/Genomics_England.jpeg
+.. image:: ./rare_disease_cancer/Genomics_England.jpeg
 
 WGS [of paired DNA, tumour (∼80×) and germline (∼40×)] is delivered by Illumina at the new national 100 000 Genomes Sequencing Centre in Hinxton, Cambridgeshire. Processed sequencing files (BAMs, FASTQs) are then passed back to Genomics England.
 
 `Turnbull C. Introducing whole-genome sequencing into routine cancer care: the Genomics England 100 000 Genomes Project[J]. Annals of Oncology, 2018, 29(4): 784-787. <https://www.annalsofoncology.org/article/S0923-7534(19)45492-6/fulltext>`_
+
+Sequencing was performed to a mean coverage of approximately 100X in the tumour and 40X in the paired normal sample.
+
+`Trotman J, Armstrong R, Firth H, et al. The NHS England 100,000 Genomes Project: feasibility and utility of centralised genome sequencing for children with cancer[J]. British Journal of Cancer, 2022, 127(1): 137-144. <https://www.nature.com/articles/s41416-022-01788-5>`_
 
 pharmacogenomics (PGx) analysis
 ####################################################################
