@@ -231,6 +231,10 @@ Disease_Cohort_Research
 
 .. image:: ./Disease_Cohort_Research/Genomics_England.jpeg
 
+WGS [of paired DNA, tumour (∼80×) and germline (∼40×)] is delivered by Illumina at the new national 100 000 Genomes Sequencing Centre in Hinxton, Cambridgeshire. Processed sequencing files (BAMs, FASTQs) are then passed back to Genomics England.
+
+`Turnbull C. Introducing whole-genome sequencing into routine cancer care: the Genomics England 100 000 Genomes Project[J]. Annals of Oncology, 2018, 29(4): 784-787. <https://www.annalsofoncology.org/article/S0923-7534(19)45492-6/fulltext>`_
+
 pharmacogenomics (PGx) analysis
 ####################################################################
 `Venner E, Muzny D, Smith J D, et al. Whole-genome sequencing as an investigational device for return of hereditary disease risk and pharmacogenomic results as part of the All of Us Research Program[J]. Genome Medicine, 2022, 14(1): 34. <https://link.springer.com/article/10.1186/s13073-022-01031-z>`_
