@@ -8,7 +8,7 @@ Get started with PopGen
 
 `biobank主页:https://www.ukbiobank.ac.uk <https://www.ukbiobank.ac.uk>`_
 
-.. image:: genetic-data-sept2022.jpg
+.. image:: png/genetic-data-sept2022.jpg
 
 `UKBB Command Line for DRAGEN <https://developer.illumina.com/dragen/dragen-popgen>`_
 ::
@@ -46,23 +46,23 @@ Get started with PopGen
 PopGen data processing and analysis workflows using the DRAGEN Platform (left) and GATK best practices (right) workflows
 ########################################################################################################################################
 
-.. image:: dragen-popgen.png
+.. image:: png/dragen-popgen.png
 
 
 Practical guide
 ########################################################################################################################################
 
-.. image:: Navigating.png
+.. image:: png/Navigating.png
 
 `Navigating the technology landscape for population-scale predictive genomics <https://assets.thermofisher.com/TFS-Assets/GSD/Reference-Materials/Whitepaper-Technology-Predictive-Genomics.pdf>`_
 
-.. image:: Overview.png
+.. image:: png/Overview.png
 
 `Bocher O, Willer C J, Zeggini E. Unravelling the genetic architecture of human complex traits through whole genome sequencing[J]. nature communications, 2023, 14(1): 3520. <https://www.nature.com/articles/s41467-023-39259-x>`_
 
 `Nagasaki M, Sekiya Y, Asakura A, et al. Design and implementation of a hybrid cloud system for large-scale human genomic research[J]. Human Genome Variation, 2023, 10(1): 6. <https://www.nature.com/articles/s41439-023-00231-2>`_
 
-.. image:: project.png
+.. image:: png/project.png
 
 `Tanjo T, Kawai Y, Tokunaga K, et al. Practical guide for managing large-scale human genome data in research[J]. Journal of Human Genetics, 2021, 66(1): 39-52. <https://www.nature.com/articles/s10038-020-00862-1>`_
 
@@ -129,11 +129,6 @@ contamination
 genotyping
 ####################################################################
 `graphtyper <https://github.com/DecodeGenetics/graphtyper>`_
-::
-
-    graphtyper is a graph-based variant caller capable of genotyping population-scale short read data sets.
-    It represents a reference genome and known variants of a genomic region using an acyclic graph structure (a "pangenome reference"),
-    which high-throughput sequence reads are re-aligned to for the purpose of discovering and genotyping SNPs, small indels, and structural variants.
 
 `Eggertsson H P, Jonsson H, Kristmundsdottir S, et al. Graphtyper enables population-scale genotyping using pangenome graphs[J]. Nature genetics, 2017, 49(11): 1654-1660. <https://www.nature.com/articles/ng.3964>`_
 
@@ -255,7 +250,7 @@ The effect of sequencing coverage on structural variation (SNV+CNV+SV) detection
 ================================  ================================  ================================
 SNV                                 CNV                                 SV
 ================================  ================================  ================================
-.. image:: snp.png                 .. image:: CNV.png                  .. image:: SV.png
+.. image:: png/snp.png                 .. image:: png/CNV.png                  .. image:: png/SV.png
 ================================  ================================  ================================
 
 `Yang L. A practical guide for structural variation detection in the human genome[J]. Current protocols in human genetics, 2020, 107(1): e103. <https://doi.org/10.1002/cphg.103>`_
