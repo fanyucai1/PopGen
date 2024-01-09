@@ -278,3 +278,5 @@ bioinformatics
 `SG10K_Health:https://github.com/c-BIG/sg10k-health/tree/main <https://github.com/c-BIG/sg10k-health/tree/main>`_
 
 `Rare_Disease_Genome_Analysis_Guide.pdf <https://re-docs.genomicsengland.co.uk/rare_disease_3.pdf>`_
+
+`Reference GRCh38:https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/technical/reference/GRCh38_reference_genome/ <https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/technical/reference/GRCh38_reference_genome/>`_
