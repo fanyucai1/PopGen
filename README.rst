@@ -90,6 +90,8 @@ Biobank
 
 `Taiwan Biobank (TWB) project:Hsu J S, Wu D C, Shih S H, et al. Complete genomic profiles of 1,496 Taiwanese reveal curated medical insights[J]. Journal of Advanced Research, 2023. <https://www.sciencedirect.com/science/article/pii/S2090123223004058>`_
 
+`2023-Exploring the genetic diversity of the Japanese population: Insights from a large-scale whole genome sequencing analysis <https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010625>`_
+
 关于WES
 ####################################################################
 `Van Hout, C. V. et al. Exome sequencing and characterization of 49,960 individuals in the UK Biobank. Nature 586, 749–756 (2020). <https://www.nature.com/articles/s41586-020-2853-0>`_
