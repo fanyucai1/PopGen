@@ -48,7 +48,6 @@ PopGen data processing and analysis workflows using the DRAGEN Platform (left) a
 
 .. image:: png/dragen-popgen.png
 
-
 Practical guide
 ########################################################################################################################################
 
