@@ -237,7 +237,7 @@ Sequencing was performed to a mean coverage of approximately 100X in the tumour 
 
 `Trotman J, Armstrong R, Firth H, et al. The NHS England 100,000 Genomes Project: feasibility and utility of centralised genome sequencing for children with cancer[J]. British Journal of Cancer, 2022, 127(1): 137-144. <https://www.nature.com/articles/s41416-022-01788-5>`_
 
-**Genomics England**文章
+**Genomics England文章**
 
 `Sosinsky A, Ambrose J, Cross W, et al. Insights for precision oncology from the integration of genomic and clinical data of 13,880 tumors from the 100,000 Genomes Cancer Programme[J]. Nature Medicine, 2024: 1-11. <https://www.nature.com/articles/s41591-023-02682-0>`_
 
