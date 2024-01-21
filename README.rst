@@ -288,6 +288,8 @@ bioinformatics
 
 `Reference GRCh38:https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/technical/reference/GRCh38_reference_genome/ <https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/technical/reference/GRCh38_reference_genome/>`_
 
+`Genomics England Research Environment User Guide <https://re-docs.genomicsengland.co.uk/data_overview/>`_
+
 Link
 #######################
 `UK Biobank Allele Frequency Browser <https://afb.ukbiobank.ac.uk/>`_
