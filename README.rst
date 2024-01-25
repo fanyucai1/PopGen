@@ -155,6 +155,8 @@ GWAS(Association analyses)
 
 `Bycroft C, Freeman C, Petkova D, et al. The UK Biobank resource with deep phenotyping and genomic data[J]. Nature, 2018, 562(7726): 203-209. <https://www.nature.com/articles/s41586-018-0579-z>`_
 
+`GWAS Catalog: https://www.ebi.ac.uk/gwas/ <https://www.ebi.ac.uk/gwas/>`_
+
 polygenic risk scores (PRS)
 ####################################################################
 `https://choishingwan.github.io/PRS-Tutorial/ <https://choishingwan.github.io/PRS-Tutorial/>`_
