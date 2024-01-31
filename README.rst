@@ -243,25 +243,9 @@ long-read sequencing for All of Us
 ####################################################################
 `Mahmoud M, Huang Y, Garimella K, et al. Utility of long-read sequencing for All of Us[J]. bioRxiv, 2023: 2023.01. 23.525236. <https://www.biorxiv.org/content/10.1101/2023.01.23.525236v1.abstract>`_
 
-bioinformatics
-#######################
-`Westlake BioBank for Chinese pilot project:https://github.com/peikuan/WBBC <https://github.com/peikuan/WBBC>`_
+`bioinformatics <./bioinformatics/>`_
+#####################################################################
 
-`All of Us Research Program:https://github.com/all-of-us <https://github.com/all-of-us>`_
-
-`UK Biobank:https://github.com/UK-Biobank <https://github.com/UK-Biobank>`_
-
-`UKBseq500k-methods:https://github.com/UKBseq500k-methods <https://github.com/UKBseq500k-methods>`_
-
-`SG10K_Med:https://github.com/csockhoai/SG10KMed <https://github.com/csockhoai/SG10KMed>`_
-
-`SG10K_Health:https://github.com/c-BIG/sg10k-health/tree/main <https://github.com/c-BIG/sg10k-health/tree/main>`_
-
-`Rare_Disease_Genome_Analysis_Guide.pdf <https://re-docs.genomicsengland.co.uk/rare_disease_3.pdf>`_
-
-`Reference GRCh38:https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/technical/reference/GRCh38_reference_genome/ <https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/technical/reference/GRCh38_reference_genome/>`_
-
-`Genomics England Research Environment User Guide:https://re-docs.genomicsengland.co.uk/data_overview/ <https://re-docs.genomicsengland.co.uk/data_overview/>`_
 
 Link
 #######################
