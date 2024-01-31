@@ -157,6 +157,8 @@ GWAS(Association analyses)
 
 `GWAS Catalog: https://www.ebi.ac.uk/gwas/ <https://www.ebi.ac.uk/gwas/>`_
 
+`GCTA a tool for Genome-wide Complex Trait Analysis <https://yanglab.westlake.edu.cn/software/gcta/#Overview>`_
+
 `Gurinovich A, Li M, Leshchyk A, et al. Evaluation of GENESIS, SAIGE, REGENIE and fastGWA-GLMM for genome-wide association studies of binary traits in correlated data[J]. Frontiers in Genetics, 2022, 13: 897210. <https://www.frontiersin.org/articles/10.3389/fgene.2022.897210/full>`_
 
 polygenic risk scores (PRS)
