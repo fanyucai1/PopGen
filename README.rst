@@ -137,7 +137,7 @@ genotyping
 
 `Eggertsson H P, Kristmundsdottir S, Beyter D, et al. GraphTyper2 enables population-scale genotyping of structural variation using pangenome graphs[J]. Nature communications, 2019, 10(1): 5402. <https://www.nature.com/articles/s41467-019-13341-9>`_
 
-`GWAS(Association analyses) <./RGWAS_PRS/>`_
+`GWAS(Association analyses) <./GWAS_PRS/>`_
 ####################################################################
 `https://github.com/MareesAT/GWA_tutorial/ <https://github.com/MareesAT/GWA_tutorial/>`_
 
