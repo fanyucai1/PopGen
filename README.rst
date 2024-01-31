@@ -182,9 +182,9 @@ long-read sequencing for All of Us
 ####################################################################
 `Mahmoud M, Huang Y, Garimella K, et al. Utility of long-read sequencing for All of Us[J]. bioRxiv, 2023: 2023.01. 23.525236. <https://www.biorxiv.org/content/10.1101/2023.01.23.525236v1.abstract>`_
 
-`bioinformatics <./bioinformatics/>`_
+bioinformatics(人群队列生物信息分析)
 #####################################################################
-
+`bioinformatics <./bioinformatics/>`_
 
 Link
 #######################
