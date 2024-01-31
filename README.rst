@@ -69,17 +69,10 @@ Practical guide
 ####################################################################
 `WES <WES/>`_
 ####################################################################
-
-Medical_genes
+`Medical_genes <Medical_genes/>`_
 ####################################################################
-`Scripts used to develop the CMRG benchmark:https://github.com/usnistgov/cmrg-benchmarkset-manuscript <https://github.com/usnistgov/cmrg-benchmarkset-manuscript>`_
-
-`Wagner J, Olson N D, Harris L, et al. Curated variation benchmarks for challenging medically relevant autosomal genes[J]. Nature biotechnology, 2022, 40(5): 672-680. <https://www.nature.com/articles/s41587-021-01158-1>`_
-
-.. image:: Medical_genes/Medical_genes.png
-
 contamination
-######################################################################################################
+####################################################################
 `VerifyBamID2:https://github.com/Griffan/VerifyBamID <https://github.com/Griffan/VerifyBamID>`_
 
 `Zhang F, Flickinger M, Taliun S A G, et al. Ancestry-agnostic estimation of DNA sample contamination from sequence reads[J]. Genome research, 2020, 30(2): 185-194. <https://genome.cshlp.org/content/30/2/185.short>`_
