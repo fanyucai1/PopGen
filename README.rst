@@ -65,17 +65,23 @@ Practical guide
 
 `Tanjo T, Kawai Y, Tokunaga K, et al. Practical guide for managing large-scale human genome data in research[J]. Journal of Human Genetics, 2021, 66(1): 39-52. <https://www.nature.com/articles/s10038-020-00862-1>`_
 
-Biobank
+WGS-biobank reference paper
 ####################################################################
 `Biobank </Biobank/>`_
 
+WES-biobank reference paper
+####################################################################
 `WES <WES/>`_
+
+PGx_STR(药物基因组以及短重复序列）
 ####################################################################
 `PGx_STR <./PGx_STR/>`_
+
+Medical_genes(医学临床相关基因)
 ####################################################################
 `Medical_genes <Medical_genes/>`_
-####################################################################
-contamination
+
+contamination(样本污染)
 ####################################################################
 `VerifyBamID2:https://github.com/Griffan/VerifyBamID <https://github.com/Griffan/VerifyBamID>`_
 
@@ -93,10 +99,11 @@ genotyping
 
 `Eggertsson H P, Kristmundsdottir S, Beyter D, et al. GraphTyper2 enables population-scale genotyping of structural variation using pangenome graphs[J]. Nature communications, 2019, 10(1): 5402. <https://www.nature.com/articles/s41467-019-13341-9>`_
 
-`GWAS(Association analyses)+polygenic risk scores (PRS) <./GWAS_PRS/>`_
+GWAS+PRS(全基因组关联分析与多基因组风险评估)
 ####################################################################
+`GWAS(Association analyses)+polygenic risk scores (PRS) <./GWAS_PRS/>`_
 
-pangenome reference
+pangenome reference(人泛基因组研究)
 ####################################################################
 `Deng L, Xie B, Wang Y, et al. A protocol for applying a population-specific reference genome assembly to population genetics and medical studies[J]. STAR protocols, 2022, 3(2): 101440. <https://www.sciencedirect.com/science/article/pii/S2666166722003203>`_
 
@@ -104,7 +111,7 @@ pangenome reference
 
 `Liao W W, Asri M, Ebler J, et al. A draft human pangenome reference[J]. Nature, 2023, 617(7960): 312-324. <https://www.nature.com/articles/s41586-023-05896-x>`_
 
-Imputation
+Imputation(基因型填充)
 ####################################################################
 `GLIMPSE2 is a set of tools for low-coverage whole genome sequencing imputation.  <https://odelaneau.github.io/GLIMPSE/>`_
 
@@ -128,7 +135,7 @@ The pipeline uses **BCFtools** for marker filtering, **Beagle** for genotype pha
 
 `Browning B L, Browning S R. Statistical phasing of 150,119 sequenced genomes in the UK Biobank[J]. The American Journal of Human Genetics, 2023, 110(1): 161-165. <https://www.cell.com/ajhg/pdf/S0002-9297(22)00499-2.pdf>`_
 
-rare disease and cancer
+rare disease and cancer(专病队列研究)
 ####################################################################
 `Taliun D, Harris D N, Kessler M D, et al. Sequencing of 53,831 diverse genomes from the NHLBI TOPMed Program[J]. Nature, 2021, 590(7845): 290-299. <https://www.nature.com/articles/s41586-021-03205-y>`_
 
