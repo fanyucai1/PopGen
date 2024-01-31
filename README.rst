@@ -66,7 +66,7 @@ Practical guide
 `Tanjo T, Kawai Y, Tokunaga K, et al. Practical guide for managing large-scale human genome data in research[J]. Journal of Human Genetics, 2021, 66(1): 39-52. <https://www.nature.com/articles/s10038-020-00862-1>`_
 
 `Biobank </Biobank/>`_
-########################################################################################################################################
+####################################################################
 `WES <WES/>`_
 ####################################################################
 
