@@ -65,11 +65,11 @@ Practical guide
 
 `Tanjo T, Kawai Y, Tokunaga K, et al. Practical guide for managing large-scale human genome data in research[J]. Journal of Human Genetics, 2021, 66(1): 39-52. <https://www.nature.com/articles/s10038-020-00862-1>`_
 
-biobank reference paper(参考基因组)
+biobank reference paper(人群队列参考文献汇总)
 ####################################################################
 `全基因组水平:WGS </Biobank/>`_
 
-`全外显子:WES <WES/>`_
+`全外显子水平:WES <WES/>`_
 
 bioinformatics(人群队列生物信息分析)
 #####################################################################
