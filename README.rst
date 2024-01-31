@@ -65,13 +65,15 @@ Practical guide
 
 `Tanjo T, Kawai Y, Tokunaga K, et al. Practical guide for managing large-scale human genome data in research[J]. Journal of Human Genetics, 2021, 66(1): 39-52. <https://www.nature.com/articles/s10038-020-00862-1>`_
 
-WGS-biobank reference paper
+biobank reference paper(参考基因组)
 ####################################################################
-`Biobank </Biobank/>`_
+`全基因组水平:WGS </Biobank/>`_
 
-WES-biobank reference paper
-####################################################################
-`WES <WES/>`_
+`全外显子:WES <WES/>`_
+
+bioinformatics(人群队列生物信息分析)
+#####################################################################
+`bioinformatics <./bioinformatics/>`_
 
 PGx_STR(药物基因组以及短重复序列）
 ####################################################################
@@ -182,9 +184,6 @@ long-read sequencing for All of Us
 ####################################################################
 `Mahmoud M, Huang Y, Garimella K, et al. Utility of long-read sequencing for All of Us[J]. bioRxiv, 2023: 2023.01. 23.525236. <https://www.biorxiv.org/content/10.1101/2023.01.23.525236v1.abstract>`_
 
-bioinformatics(人群队列生物信息分析)
-#####################################################################
-`bioinformatics <./bioinformatics/>`_
 
 Link
 #######################
