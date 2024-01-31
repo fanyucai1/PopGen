@@ -16,7 +16,7 @@
     .. image:: PRS_software.png
 
 
-https://github.com/MareesAT/GWA_tutorial/ <https://github.com/MareesAT/GWA_tutorial/>`_
+`https://github.com/MareesAT/GWA_tutorial/ <https://github.com/MareesAT/GWA_tutorial/>`_
 
 `Marees A T, de Kluiver H, Stringer S, et al. A tutorial on conducting genome‐wide association studies: Quality control and statistical analysis[J]. International journal of methods in psychiatric research, 2018, 27(2): e1608. <https://onlinelibrary.wiley.com/doi/full/10.1002/mpr.1608>`_
 
