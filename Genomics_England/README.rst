@@ -22,3 +22,12 @@ RNAseq
 Covid-19
 ++++++++++++++++++++++++++
 `Kousathanas A, Pairo-Castineira E, Rawlik K, et al. Whole-genome sequencing reveals host factors underlying critical COVID-19[J]. Nature, 2022, 607(7917): 97-103. <https://www.nature.com/articles/s41586-022-04576-6>`_
+
+Other
++++++++++++++++++++++++++
+
+.. image:: ./China_Kadoorie_Biobank_Study.jpeg
+
+`Yu C, Lan X, Tao Y, et al. A high-resolution haplotype-resolved Reference panel constructed from the China Kadoorie Biobank Study[J]. Nucleic Acids Research, 2023, 51(21): 11770-11782. <https://academic.oup.com/nar/article/51/21/11770/7327062>`_
+
+`Taliun D, Harris D N, Kessler M D, et al. Sequencing of 53,831 diverse genomes from the NHLBI TOPMed Program[J]. Nature, 2021, 590(7845): 290-299. <https://www.nature.com/articles/s41586-021-03205-y>`_
