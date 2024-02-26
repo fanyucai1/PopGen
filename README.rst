@@ -190,6 +190,9 @@ Link
 
 Genomics_England
 #######################
+
+.. image:: ./Genomics_England/Genomics_England.jpeg
+
 Cancer
 +++++++++++++
 `Sosinsky A, Ambrose J, Cross W, et al. Insights for precision oncology from the integration of genomic and clinical data of 13,880 tumors from the 100,000 Genomes Cancer Programme[J]. Nature Medicine, 2024: 1-11. <https://www.nature.com/articles/s41591-023-02682-0>`_
