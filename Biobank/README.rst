@@ -22,8 +22,6 @@
 
 `Taiwan Biobank (TWB) project:Hsu J S, Wu D C, Shih S H, et al. Complete genomic profiles of 1,496 Taiwanese reveal curated medical insights[J]. Journal of Advanced Research, 2023. <https://www.sciencedirect.com/science/article/pii/S2090123223004058>`_
 
-`Japanese population:Kawai Y, Watanabe Y, Omae Y, Miyahara R, Khor SS, et al. (2023) Exploring the genetic diversity of the Japanese population: Insights from a large-scale whole genome sequencing analysis. PLOS Genetics 19(12): e1010625. <https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010625>`_
-
 `Choi J, Kim S, Kim J, et al. A whole-genome reference panel of 14,393 individuals for East Asian populations accelerates discovery of rare functional variants[J]. Science Advances, 2023, 9(32): eadg6319. <https://www.science.org/doi/full/10.1126/sciadv.adg6319>`_
 
 `Tian Z, Chen F, Wang J, et al. CAS Array: design and assessment of a genotyping array for Chinese biobanking[J]. Precision Clinical Medicine, 2023, 6(1): pbad002. <https://academic.oup.com/pcm/article/6/1/pbad002/7055961>`_
