@@ -18,6 +18,8 @@ PRECISE-SG100K Dataset
 
 `Call for Proposals – Driver Projects for the PRECISE-SG100K Dataset:https://www.npm.sg/research/call-for-proposals/ <https://www.npm.sg/research/call-for-proposals/>`_
 
+`“Call for Proposals” meeting:https://file.for.sg/sg100k-cfp.pdf <https://file.for.sg/sg100k-cfp.pdf>`_
+
 China
 ------------------------
 `ChinaMAP:Cao Y, Li L, Xu M, et al. The ChinaMAP analytics of deep whole genome sequences in 10,588 individuals[J]. Cell research, 2020, 30(9): 717-731. <https://www.nature.com/articles/s41422-020-0322-9>`_
