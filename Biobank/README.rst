@@ -16,6 +16,8 @@ PRECISE-SG100K Dataset
 
 `SG10K_med:Chan S H, Bylstra Y, Teo J X, et al. Analysis of clinically relevant variants from ancestrally diverse Asian genomes[J]. Nature Communications, 2022, 13(1): 6694. <https://www.nature.com/articles/s41467-022-34116-9>`_
 
+`Call for Proposals – Driver Projects for the PRECISE-SG100K Dataset:https://www.npm.sg/research/call-for-proposals/ <https://www.npm.sg/research/call-for-proposals/>`_
+
 China
 ------------------------
 `ChinaMAP:Cao Y, Li L, Xu M, et al. The ChinaMAP analytics of deep whole genome sequences in 10,588 individuals[J]. Cell research, 2020, 30(9): 717-731. <https://www.nature.com/articles/s41422-020-0322-9>`_
