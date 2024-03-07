@@ -16,6 +16,8 @@ PRECISE-SG100K Dataset
 
 `SG10K_med:Chan S H, Bylstra Y, Teo J X, et al. Analysis of clinically relevant variants from ancestrally diverse Asian genomes[J]. Nature Communications, 2022, 13(1): 6694. <https://www.nature.com/articles/s41467-022-34116-9>`_
 
+`Precision Medicine Research Highlights:https://www.npm.sg/research/research-highlights/ <https://www.npm.sg/research/research-highlights/>`_
+
 `Call for Proposals – Driver Projects for the PRECISE-SG100K Dataset:https://www.npm.sg/research/call-for-proposals/ <https://www.npm.sg/research/call-for-proposals/>`_
 
 `“Call for Proposals” meeting:https://file.for.sg/sg100k-cfp.pdf <https://file.for.sg/sg100k-cfp.pdf>`_
