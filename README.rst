@@ -149,7 +149,7 @@ rare disease and cancer
 
 The effect of sequencing coverage on structural variation (SNV+CNV+SV) detection sensitivity
 ###########################################################################################################
-`测序深度 <./coverage_depth/>`
+`测序深度 <./coverage_depth/>`_
 
 long-read sequencing for All of Us
 ####################################################################
