@@ -79,41 +79,36 @@ Large-scale cohort studies with genomic information
 +--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
 `Tanjo T, Kawai Y, Tokunaga K, et al. Practical guide for managing large-scale human genome data in research[J]. Journal of Human Genetics, 2021, 66(1): 39-52. <https://www.nature.com/articles/s10038-020-00862-1>`_
 
-biobank reference paper(人群队列参考文献汇总)
+`WGS-biobank </Biobank/`_
 ####################################################################
-`全基因组水平:WGS </Biobank/>`_
 
-`全外显子水平:WES <WES/>`_
+`WES-biobank </WES/>`_
+####################################################################
 
-bioinformatics(人群队列生物信息分析)
+`Bioinformatics Documents <./bioinformatics/>`_
 #####################################################################
-`bioinformatics <./bioinformatics/>`_
 
-PGx_STR(药物基因组以及短重复序列）
+`PGx_STR(药物基因组以及短重复序列) <./PGx_STR/>`_
 ####################################################################
-`PGx_STR <./PGx_STR/>`_
 
-Medical_genes(医学临床相关基因)
+`Medical_genes(医学临床相关基因) <./Medical_genes/`_
 ####################################################################
-`Medical_genes <Medical_genes/>`_
 
-contamination(样本污染)
+`contamination(样本污染) <./contamination/>`_
 ####################################################################
 `VerifyBamID2:https://github.com/Griffan/VerifyBamID <https://github.com/Griffan/VerifyBamID>`_
 
 `read_haps:https://github.com/DecodeGenetics/read_haps <https://github.com/DecodeGenetics/read_haps>`_
 
-genotyping
+`genotyping <genotyping>`_
 ####################################################################
 `graphtyper <https://github.com/DecodeGenetics/graphtyper>`_
 
-GWAS+PRS(全基因组关联分析与多基因组风险评估)
-####################################################################
-`GWAS(Association analyses)+polygenic risk scores (PRS) <./GWAS_PRS/>`_
+`全基因组关联分析(GWAS)与多基因组风险评估polygenic risk scores (PRS) <./GWAS_PRS/>`_
+###################################################################################
 
 `pangenome reference(人泛基因组研究) <./pan-genome/>`_
 ####################################################################
-
 
 Imputation(基因型填充)
 ####################################################################
@@ -139,15 +134,14 @@ The pipeline uses **BCFtools** for marker filtering, **Beagle** for genotype pha
 
 `Browning B L, Browning S R. Statistical phasing of 150,119 sequenced genomes in the UK Biobank[J]. The American Journal of Human Genetics, 2023, 110(1): 161-165. <https://www.cell.com/ajhg/pdf/S0002-9297(22)00499-2.pdf>`_
 
-rare disease and cancer
-####################################################################
-`专病队列研究 <./Genomics_England/>`_
+`rare disease and cancer 专病队列研究 <./Genomics_England/`_
+#########################################################################################################################################
 
-The effect of sequencing coverage on structural variation (SNV+CNV+SV) detection sensitivity
-###########################################################################################################
-`测序深度 <./coverage_depth/>`_
+`The effect of sequencing coverage on structural variation detection sensitivity测序深度 <./coverage_depth/>`_
+#########################################################################################################################################
 
-long-read sequencing for All of Us
+
+`long-read sequencing for All of Us`_
 ####################################################################
 `Mahmoud M, Huang Y, Garimella K, et al. Utility of long-read sequencing for All of Us[J]. bioRxiv, 2023: 2023.01. 23.525236. <https://www.biorxiv.org/content/10.1101/2023.01.23.525236v1.abstract>`_
 
