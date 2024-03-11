@@ -10,7 +10,7 @@ Get started with PopGen
 
 .. image:: png/genetic-data-sept2022.jpg
 
-`UKBB Command Line for DRAGEN <|https://developer.illumina.com/dragen/dragen-popgen>`_
+`UKBB Command Line for DRAGEN <https://developer.illumina.com/dragen/dragen-popgen>`_
 ::
 
     dragen -r <hg38-ref-dir> \
