@@ -108,21 +108,13 @@ Medical_genes(医学临床相关基因)
 
 contamination(样本污染)
 ####################################################################
-`VerifyBamID2:|https://github.com/Griffan/VerifyBamID <|https://github.com/Griffan/VerifyBamID>`_
+`VerifyBamID2:https://github.com/Griffan/VerifyBamID <https://github.com/Griffan/VerifyBamID>`_
 
-`Zhang F, Flickinger M, Taliun S A G, et al. Ancestry-agnostic estimation of DNA sample contamination from sequence reads[J]. Genome research, 2020, 30(2): 185-194. <|https://genome.cshlp.org/content/30/2/185.short>`_
-
-`read_haps:|https://github.com/DecodeGenetics/read_haps <|https://github.com/DecodeGenetics/read_haps>`_
-
-`Eggertsson H P, Halldorsson B V. read_haps: using read haplotypes to detect same species contamination in DNA sequences[J]. Bioinformatics, 2021, 37(15): 2215-2217. <|https://academic.oup.com/bioinformatics/article/37/15/2215/5948993>`_
+`read_haps:https://github.com/DecodeGenetics/read_haps <https://github.com/DecodeGenetics/read_haps>`_
 
 genotyping
 ####################################################################
-`graphtyper <|https://github.com/DecodeGenetics/graphtyper>`_
-
-`Eggertsson H P, Jonsson H, Kristmundsdottir S, et al. Graphtyper enables population-scale genotyping using pangenome graphs[J]. Nature genetics, 2017, 49(11): 1654-1660. <|https://www.nature.com/articles/ng.3964>`_
-
-`Eggertsson H P, Kristmundsdottir S, Beyter D, et al. GraphTyper2 enables population-scale genotyping of structural variation using pangenome graphs[J]. Nature communications, 2019, 10(1): 5402. <|https://www.nature.com/articles/s41467-019-13341-9>`_
+`graphtyper <https://github.com/DecodeGenetics/graphtyper>`_
 
 GWAS+PRS(全基因组关联分析与多基因组风险评估)
 ####################################################################
