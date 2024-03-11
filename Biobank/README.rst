@@ -53,3 +53,5 @@ Other
 `Li Y, DeVito R, Mousavi N, et al. A deep population reference panel of tandem repeat variation[J]. Nature Communications, 2023, 14(1): 6711-6711. <https://www.nature.com/articles/s41467-023-42278-3>`_
 
 `1KG Project reference panel:http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/ <http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/>`_
+
+`Ziyatdinov A, Torres J, Alegre-Díaz J, et al. Genotyping, sequencing and analysis of 140,000 adults from Mexico City[J]. Nature, 2023, 622(7984): 784-793. <https://www.nature.com/articles/s41586-023-06595-3>`_
