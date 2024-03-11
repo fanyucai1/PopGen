@@ -96,9 +96,6 @@ Large-scale cohort studies with genomic information
 
 `contamination(样本污染) <./contamination/>`_
 ####################################################################
-`VerifyBamID2:https://github.com/Griffan/VerifyBamID <https://github.com/Griffan/VerifyBamID>`_
-
-`read_haps:https://github.com/DecodeGenetics/read_haps <https://github.com/DecodeGenetics/read_haps>`_
 
 `genotyping <./genotyping/>`_
 ####################################################################
