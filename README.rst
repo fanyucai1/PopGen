@@ -79,7 +79,7 @@ Large-scale cohort studies with genomic information
 +--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
 `Tanjo T, Kawai Y, Tokunaga K, et al. Practical guide for managing large-scale human genome data in research[J]. Journal of Human Genetics, 2021, 66(1): 39-52. <https://www.nature.com/articles/s10038-020-00862-1>`_
 
-`WGS-biobank </Biobank/`_
+`WGS-biobank </Biobank/>`_
 ####################################################################
 
 `WES-biobank </WES/>`_
@@ -91,7 +91,7 @@ Large-scale cohort studies with genomic information
 `PGx_STR(药物基因组以及短重复序列) <./PGx_STR/>`_
 ####################################################################
 
-`Medical_genes(医学临床相关基因) <./Medical_genes/`_
+`Medical_genes(医学临床相关基因) <./Medical_genes/>`_
 ####################################################################
 
 `contamination(样本污染) <./contamination/>`_
@@ -133,14 +133,14 @@ The pipeline uses **BCFtools** for marker filtering, **Beagle** for genotype pha
 
 `Browning B L, Browning S R. Statistical phasing of 150,119 sequenced genomes in the UK Biobank[J]. The American Journal of Human Genetics, 2023, 110(1): 161-165. <https://www.cell.com/ajhg/pdf/S0002-9297(22)00499-2.pdf>`_
 
-`rare disease and cancer 专病队列研究 <./Genomics_England/`_
+`rare disease and cancer 专病队列研究 <./Genomics_England/>`_
 #########################################################################################################################################
 
 `The effect of sequencing coverage on structural variation detection sensitivity测序深度 <./coverage_depth/>`_
 #########################################################################################################################################
 
 
-`long-read sequencing for All of Us`_
+long-read sequencing for All of Us
 ####################################################################
 `Mahmoud M, Huang Y, Garimella K, et al. Utility of long-read sequencing for All of Us[J]. bioRxiv, 2023: 2023.01. 23.525236. <https://www.biorxiv.org/content/10.1101/2023.01.23.525236v1.abstract>`_
 
