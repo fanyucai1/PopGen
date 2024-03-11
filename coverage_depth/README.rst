@@ -3,6 +3,8 @@ Overview of the different sequencing techniques currently available
 
 .. image:: ./Overview.png
 
+`Bocher O, Willer C J, Zeggini E. Unravelling the genetic architecture of human complex traits through whole genome sequencing[J]. nature communications, 2023, 14(1): 3520. <https://www.nature.com/articles/s41467-023-39259-x>`_
+
 .. image:: ./heterozygous.png
 
 *almost all homozygous SNVs are detected at a 15× average depth, an average depth of 33× is required to detect the same proportion of heterozygous SNVs*

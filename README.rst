@@ -80,13 +80,7 @@ Large-scale cohort studies with genomic information
 
 `Carress H, Lawson D J, Elhaik E. Population genetic considerations for using biobanks as international resources in the pandemic era and beyond[J]. BMC genomics, 2021, 22: 1-19. <https://link.springer.com/article/10.1186/s12864-021-07618-x>`_
 
-.. image:: png/Overview.png
-
-`Bocher O, Willer C J, Zeggini E. Unravelling the genetic architecture of human complex traits through whole genome sequencing[J]. nature communications, 2023, 14(1): 3520. <https://www.nature.com/articles/s41467-023-39259-x>`_
-
 `Nagasaki M, Sekiya Y, Asakura A, et al. Design and implementation of a hybrid cloud system for large-scale human genomic research[J]. Human Genome Variation, 2023, 10(1): 6. <https://www.nature.com/articles/s41439-023-00231-2>`_
-
-
 
 biobank reference paper(人群队列参考文献汇总)
 ####################################################################
@@ -158,7 +152,7 @@ rare disease and cancer
 
 The effect of sequencing coverage on structural variation (SNV+CNV+SV) detection sensitivity
 ###########################################################################################################
-`测序深度 <./converage_depth/>`
+`测序深度 <./coverage_depth/>`
 
 long-read sequencing for All of Us
 ####################################################################
