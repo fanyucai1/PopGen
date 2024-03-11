@@ -100,9 +100,8 @@ Large-scale cohort studies with genomic information
 
 `read_haps:https://github.com/DecodeGenetics/read_haps <https://github.com/DecodeGenetics/read_haps>`_
 
-`genotyping <genotyping>`_
+`genotyping <./genotyping/>`_
 ####################################################################
-`graphtyper <https://github.com/DecodeGenetics/graphtyper>`_
 
 `全基因组关联分析(GWAS)与多基因组风险评估polygenic risk scores (PRS) <./GWAS_PRS/>`_
 ###################################################################################
