@@ -67,7 +67,7 @@ Genomics England:https://www.genomicsengland.co.uk/
 
 `Cancer_rare-disease_Covid-19 <./Genomics_England/>`_
 
-All of US
+All of US:https://allofus.nih.gov
 ########################################################################################################################################
 .. image:: png/all_of_us.png
 
@@ -77,7 +77,7 @@ All of US
 
 `Lennon N J, Kottyan L C, Kachulis C, et al. Selection, optimization and validation of ten chronic disease polygenic risk scores for clinical implementation in diverse US populations[J]. Nature Medicine, 2024: 1-8. <https://www.nature.com/articles/s41591-024-02796-z#Sec10>`_
 
-PRECISE-SG100K Dataset
+PRECISE:https://www.npm.sg
 ########################################################################################################################################
 .. image:: png/Singapore.png
 
