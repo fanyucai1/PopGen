@@ -105,6 +105,8 @@ China
 
 IndiGenomes
 ########################################################################################################################################
+.. image:: png/Indigenomes.jpg
+
 `Jain A, Bhoyar R C, Pandhare K, et al. IndiGenomes: a comprehensive resource of genetic variants from over 1000 Indian genomes[J]. Nucleic Acids Research, 2021, 49(D1): D1225-D1232. <https://academic.oup.com/nar/article/49/D1/D1225/5937082?login=true>`_
 
 Qatar genome
