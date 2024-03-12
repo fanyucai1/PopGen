@@ -81,7 +81,7 @@ UK-biobank
 
 Genomics England
 ------------------------
-**WGS-based genome study of patient with rare disease and their families and cancer patients in England:**`https://www.genomicsengland.co.uk/<https://www.genomicsengland.co.uk/>`_
+**WGS-based genome study of patient with rare disease and their families and cancer patients in England:** `https://www.genomicsengland.co.uk/<https://www.genomicsengland.co.uk/>`_
 
 `Cancer_rare-disease_Covid-19 <./Genomics_England/>`_
 
@@ -141,7 +141,7 @@ TaiwanGenomes
 
 1000 Genomes Project
 ------------------------
-**Determining the human genetic variation by means of whole-genome sequencing in population scale:**`https://www.internationalgenome.org <https://www.internationalgenome.org>`_
+**Determining the human genetic variation by means of whole-genome sequencing in population scale:** `https://www.internationalgenome.org <https://www.internationalgenome.org>`_
 
 `Byrska-Bishop M, Evani U S, Zhao X, et al. High-coverage whole-genome sequencing of the expanded 1000 Genomes Project cohort including 602 trios[J]. Cell, 2022, 185(18): 3426-3440. e19. <https://doi.org/10.1016/j.cell.2022.08.004>`_
 
@@ -149,7 +149,7 @@ TaiwanGenomes
 
 GenomeAsia 100K Project
 ------------------------
-**WGS-based genome study of people in South and East Asia:**`https://genomeasia100k.org/ <https://genomeasia100k.org/ >`_
+**WGS-based genome study of people in South and East Asia:** `https://genomeasia100k.org/ <https://genomeasia100k.org/ >`_
 
 `The GenomeAsia 100K Project enables genetic discoveries across Asia[J]. Nature, 2019, 576(7785): 106-111. <https://www.nature.com/articles/s41586-019-1793-z>`_
 
