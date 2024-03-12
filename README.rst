@@ -129,6 +129,8 @@ IndiGenomes
 
 Qatar genome
 ------------------------
+.. image:: png/Qatar_genome.jpg
+
 `Mbarek H, Devadoss Gandhi G, Selvaraj S, et al. Qatar genome: Insights on genomics from the Middle East[J]. Human mutation, 2022, 43(4): 499-510. <https://onlinelibrary.wiley.com/doi/full/10.1002/humu.24336>`_
 
 `Qatar Genome Program is about to enter a new era thanks to Illumina #DRAGEN. <https://www.linkedin.com/posts/hamdimbarek_dragen-v4-40k-activity-7154747419908268032-Piej>`_
