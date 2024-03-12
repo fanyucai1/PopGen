@@ -51,19 +51,6 @@ Get started with PopGen
 
 Large-scale cohort studies with genomic information
 ########################################################################################################################################
-+--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
-| Project                        | Description                                                                                           | Website                                                                                     | Country        |
-+================================+=======================================================================================================+=============================================================================================+================+
-| Human Genome Project (HGP)     | The Initial sequencing program of the human genome                                                    | https://www.genome.gov/human-genome-project                                                 | International  |
-+--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
-| International HapMap Project   | Study of the common pattern of human genetic variation using SNP array                                | https://www.genome.gov/10001688/international-hapmap-project                                | International  |
-+--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
-| Human Genome Diversity Project | Biological samples and genetic data collection from different population groups throughout the world  | https://www.hagsc.org/hgdp/                                                                 | International  |
-+--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
-| Simon Genome Diversity Project | Whole-genome sequencing project of diverse human populations                                          | https://docs.cancergenomicscloud.org/v1.0/docs/simons-genome-diversity-project-sgdp-dataset | International  |
-+--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
-| FinnGen                        | Nationwide biobank and genome cohort study in Finland                                                 | https://www.finngen.fi/en                                                                   | Finnland       |
-+--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
 `Tanjo T, Kawai Y, Tokunaga K, et al. Practical guide for managing large-scale human genome data in research[J]. Journal of Human Genetics, 2021, 66(1): 39-52. <https://www.nature.com/articles/s10038-020-00862-1>`_
 
 UK Biobank:https://www.ukbiobank.ac.uk
@@ -144,7 +131,7 @@ TaiwanGenomes
 
 `1KG Project reference panel:http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/ <http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/>`_
 
-`GenomeAsia 100K Project:https://genomeasia100k.org/
+GenomeAsia 100K Project:https://genomeasia100k.org/
 ########################################################################################################################################
 **WGS-based genome study of people in South and East Asia.**
 
@@ -154,8 +141,16 @@ Mexico City
 ########################################################################################################################################
 `Ziyatdinov A, Torres J, Alegre-Díaz J, et al. Genotyping, sequencing and analysis of 140,000 adults from Mexico City[J]. Nature, 2023, 622(7984): 784-793. <https://www.nature.com/articles/s41586-023-06595-3>`_
 
+FinnGen:https://www.finngen.fi/en
+########################################################################################################################################
+**Nationwide biobank and genome cohort study in Finland.**
+
+`Kurki M I, Karjalainen J, Palta P, et al. FinnGen provides genetic insights from a well-phenotyped isolated population[J]. Nature, 2023, 613(7944): 508-518. <https://www.nature.com/articles/s41586-022-05473-8#Sec11>`_
+
 Other
 ------------------------
+`Mallick S, Li H, Lipson M, et al. The Simons genome diversity project: 300 genomes from 142 diverse populations[J]. Nature, 2016, 538(7624): 201-206. <https://www.nature.com/articles/nature18964>`_
+
 `Carress H, Lawson D J, Elhaik E. Population genetic considerations for using biobanks as international resources in the pandemic era and beyond[J]. BMC genomics, 2021, 22(1): 1-19. <https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07618-x>`_
 
 `Choi J, Kim S, Kim J, et al. A whole-genome reference panel of 14,393 individuals for East Asian populations accelerates discovery of rare functional variants[J]. Science Advances, 2023, 9(32): eadg6319. <https://www.science.org/doi/full/10.1126/sciadv.adg6319>`_
