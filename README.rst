@@ -145,45 +145,35 @@ FinnGen:https://www.finngen.fi/en
 
 `Kurki M I, Karjalainen J, Palta P, et al. FinnGen provides genetic insights from a well-phenotyped isolated population[J]. Nature, 2023, 613(7944): 508-518. <https://www.nature.com/articles/s41586-022-05473-8#Sec11>`_
 
-Other
-------------------------
+Simons genome diversity project
+########################################################################################################################################
 `Mallick S, Li H, Lipson M, et al. The Simons genome diversity project: 300 genomes from 142 diverse populations[J]. Nature, 2016, 538(7624): 201-206. <https://www.nature.com/articles/nature18964>`_
 
-`Carress H, Lawson D J, Elhaik E. Population genetic considerations for using biobanks as international resources in the pandemic era and beyond[J]. BMC genomics, 2021, 22(1): 1-19. <https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07618-x>`_
-
+East Asian populations
+########################################################################################################################################
 `Choi J, Kim S, Kim J, et al. A whole-genome reference panel of 14,393 individuals for East Asian populations accelerates discovery of rare functional variants[J]. Science Advances, 2023, 9(32): eadg6319. <https://www.science.org/doi/full/10.1126/sciadv.adg6319>`_
 
-`Li Y, DeVito R, Mousavi N, et al. A deep population reference panel of tandem repeat variation[J]. Nature Communications, 2023, 14(1): 6711-6711. <https://www.nature.com/articles/s41467-023-42278-3>`_
-
+method
+########################################################################################################################################
 `WES-biobank </WES/>`_
-
+------------------------------------------------------------------------
 `Bioinformatics Documents <./bioinformatics/>`_
-
+------------------------------------------------------------------------
 `PGx_STR(药物基因组以及短重复序列) <./PGx_STR/>`_
-
+------------------------------------------------------------------------
 `Medical_genes(医学临床相关基因) <./Medical_genes/>`_
-####################################################################
-
+------------------------------------------------------------------------
 `contamination(样本污染) <./contamination/>`_
-####################################################################
-
+------------------------------------------------------------------------
 `genotyping <./genotyping/>`_
-####################################################################
-
+------------------------------------------------------------------------
 `全基因组关联分析(GWAS)与多基因组风险评估polygenic risk scores (PRS) <./GWAS_PRS/>`_
-###################################################################################
-
+------------------------------------------------------------------------
 `pangenome reference(人泛基因组研究) <./pangenome/>`_
-####################################################################
-
+------------------------------------------------------------------------
 `Imputation(基因型填充) <./Imputation/>`_
-####################################################################
-
+------------------------------------------------------------------------
 `phasing_genotyping <./phasing_genotyping/>`_
-####################################################################
-
-`rare disease and cancer 专病队列研究 <./Genomics_England/>`_
-#########################################################################################################################################
-
+------------------------------------------------------------------------
 `The effect of sequencing coverage on structural variation detection sensitivity测序深度 <./coverage_depth/>`_
-#########################################################################################################################################
+------------------------------------------------------------------------------------------------------------------------------------------------
