@@ -63,7 +63,7 @@ UK Biobank:https://www.ukbiobank.ac.uk
 
 Genomics England:https://www.genomicsengland.co.uk/
 ########################################################################################################################################
-**WGS-based genome study of patient with rare disease and their families and cancer patients in England:**
+**WGS-based genome study of patient with rare disease and their families and cancer patients in England.**
 
 `Cancer_rare-disease_Covid-19 <./Genomics_England/>`_
 
