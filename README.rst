@@ -71,7 +71,7 @@ UK-biobank
 -------------------
 .. image:: png/genetic-data-sept2022.jpg
 
-**Biobank study involving 500,000 residents in the UK:**`https://www.ukbiobank.ac.uk <https://www.ukbiobank.ac.uk>`_
+**Biobank study involving 500,000 residents in the UK:** `https://www.ukbiobank.ac.uk <https://www.ukbiobank.ac.uk>`_
 
 `UK Biobank Allele Frequency Browser：https://afb.ukbiobank.ac.uk/ <https://afb.ukbiobank.ac.uk/>`_
 
