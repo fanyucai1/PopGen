@@ -103,7 +103,7 @@ Large-scale cohort studies with genomic information
 `全基因组关联分析(GWAS)与多基因组风险评估polygenic risk scores (PRS) <./GWAS_PRS/>`_
 ###################################################################################
 
-`pangenome reference(人泛基因组研究) <./pan-genome/>`_
+`pangenome reference(人泛基因组研究) <./pangenome/>`_
 ####################################################################
 
 Imputation(基因型填充)
