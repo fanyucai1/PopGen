@@ -67,11 +67,11 @@ Large-scale cohort studies with genomic information
 +--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
 `Tanjo T, Kawai Y, Tokunaga K, et al. Practical guide for managing large-scale human genome data in research[J]. Journal of Human Genetics, 2021, 66(1): 39-52. <https://www.nature.com/articles/s10038-020-00862-1>`_
 
-UK-biobank
--------------------
+`UK-biobank:https://www.ukbiobank.ac.uk <https://www.ukbiobank.ac.uk>`_
+--------------------------------------------------------------------------------------
 .. image:: png/genetic-data-sept2022.jpg
 
-**Biobank study involving 500,000 residents in the UK:** `https://www.ukbiobank.ac.uk <https://www.ukbiobank.ac.uk>`_
+**Biobank study involving 500,000 residents in the UK.**
 
 `UK Biobank Allele Frequency Browser：https://afb.ukbiobank.ac.uk/ <https://afb.ukbiobank.ac.uk/>`_
 
@@ -79,9 +79,9 @@ UK-biobank
 
 `Halldorsson B V, Eggertsson H P, Moore K H S, et al. The sequences of 150,119 genomes in the UK Biobank[J]. Nature, 2022, 607(7920): 732-740. <https://www.nature.com/articles/s41586-022-04965-x>`_
 
-Genomics England
-------------------------
-**WGS-based genome study of patient with rare disease and their families and cancer patients in England:** `https://www.genomicsengland.co.uk/<https://www.genomicsengland.co.uk/>`_
+`Genomics England:https://www.genomicsengland.co.uk/ <https://www.genomicsengland.co.uk/>`
+--------------------------------------------------------------------------------------------------------------
+**WGS-based genome study of patient with rare disease and their families and cancer patients in England:**
 
 `Cancer_rare-disease_Covid-19 <./Genomics_England/>`_
 
@@ -139,17 +139,17 @@ TaiwanGenomes
 
 `Hsu J S, Wu D C, Shih S H, et al. Complete genomic profiles of 1,496 Taiwanese reveal curated medical insights[J]. Journal of Advanced Research, 2023. <https://www.sciencedirect.com/science/article/pii/S2090123223004058>`_
 
-1000 Genomes Project
-------------------------
-**Determining the human genetic variation by means of whole-genome sequencing in population scale:** `https://www.internationalgenome.org <https://www.internationalgenome.org>`_
+`1000 Genomes Project <https://www.internationalgenome.org>`
+------------------------------------------------------------------------
+**Determining the human genetic variation by means of whole-genome sequencing in population scale.**
 
 `Byrska-Bishop M, Evani U S, Zhao X, et al. High-coverage whole-genome sequencing of the expanded 1000 Genomes Project cohort including 602 trios[J]. Cell, 2022, 185(18): 3426-3440. e19. <https://doi.org/10.1016/j.cell.2022.08.004>`_
 
 `1KG Project reference panel:http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/ <http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/>`_
 
-GenomeAsia 100K Project
-------------------------
-**WGS-based genome study of people in South and East Asia:** `https://genomeasia100k.org/ <https://genomeasia100k.org/ >`_
+`GenomeAsia 100K Project <https://genomeasia100k.org/>`_
+------------------------------------------------------------------------
+**WGS-based genome study of people in South and East Asia.**
 
 `The GenomeAsia 100K Project enables genetic discoveries across Asia[J]. Nature, 2019, 576(7785): 106-111. <https://www.nature.com/articles/s41586-019-1793-z>`_
 
