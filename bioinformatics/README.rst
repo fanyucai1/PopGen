@@ -6,8 +6,6 @@
 
 4.  `UKBseq500k-methods:https://github.com/UKBseq500k-methods <https://github.com/UKBseq500k-methods>`_
 
-.. image:: Singapore.png
-
 5.  `SG10K_Med:https://github.com/csockhoai/SG10KMed <https://github.com/csockhoai/SG10KMed>`_
 
 6.  `SG10K_Health:https://github.com/c-BIG/sg10k-health/tree/main <https://github.com/c-BIG/sg10k-health/tree/main>`_
