@@ -141,23 +141,27 @@ TaiwanGenomes
 
 `Hsu J S, Wu D C, Shih S H, et al. Complete genomic profiles of 1,496 Taiwanese reveal curated medical insights[J]. Journal of Advanced Research, 2023. <https://www.sciencedirect.com/science/article/pii/S2090123223004058>`_
 
-Other
+1000 Genomes Project
 ------------------------
-`Shi S, Rubinacci S, Hu S, et al. A Genomics England haplotype reference panel and the imputation of the UK Biobank[J]. medRxiv, 2023: 2023.11. 06.23298035. <https://www.medrxiv.org/content/10.1101/2023.11.06.23298035v1>`_
+`Byrska-Bishop M, Evani U S, Zhao X, et al. High-coverage whole-genome sequencing of the expanded 1000 Genomes Project cohort including 602 trios[J]. Cell, 2022, 185(18): 3426-3440. e19. <https://doi.org/10.1016/j.cell.2022.08.004>`_
 
+GenomeAsia 100K Project
+------------------------
 `The GenomeAsia 100K Project enables genetic discoveries across Asia[J]. Nature, 2019, 576(7785): 106-111. <https://www.nature.com/articles/s41586-019-1793-z>`_
 
-`1000 Genomes Project (1kGP):Byrska-Bishop M, Evani U S, Zhao X, et al. High-coverage whole-genome sequencing of the expanded 1000 Genomes Project cohort including 602 trios[J]. Cell, 2022, 185(18): 3426-3440. e19. <https://doi.org/10.1016/j.cell.2022.08.004>`_
+`1KG Project reference panel:http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/ <http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/>`_
 
+Mexico City
+------------------------
+`Ziyatdinov A, Torres J, Alegre-Díaz J, et al. Genotyping, sequencing and analysis of 140,000 adults from Mexico City[J]. Nature, 2023, 622(7984): 784-793. <https://www.nature.com/articles/s41586-023-06595-3>`_
+
+Other
+------------------------
 `Carress H, Lawson D J, Elhaik E. Population genetic considerations for using biobanks as international resources in the pandemic era and beyond[J]. BMC genomics, 2021, 22(1): 1-19. <https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07618-x>`_
 
 `Choi J, Kim S, Kim J, et al. A whole-genome reference panel of 14,393 individuals for East Asian populations accelerates discovery of rare functional variants[J]. Science Advances, 2023, 9(32): eadg6319. <https://www.science.org/doi/full/10.1126/sciadv.adg6319>`_
 
 `Li Y, DeVito R, Mousavi N, et al. A deep population reference panel of tandem repeat variation[J]. Nature Communications, 2023, 14(1): 6711-6711. <https://www.nature.com/articles/s41467-023-42278-3>`_
-
-`1KG Project reference panel:http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/ <http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/>`_
-
-`Ziyatdinov A, Torres J, Alegre-Díaz J, et al. Genotyping, sequencing and analysis of 140,000 adults from Mexico City[J]. Nature, 2023, 622(7984): 784-793. <https://www.nature.com/articles/s41586-023-06595-3>`_
 
 `WES-biobank </WES/>`_
 ####################################################################
@@ -188,6 +192,8 @@ Imputation(基因型填充)
 `GLIMPSE2 is a set of tools for low-coverage whole genome sequencing imputation.  <https://odelaneau.github.io/GLIMPSE/>`_
 
 `Rubinacci S, Hofmeister R J, Sousa da Mota B, et al. Imputation of low-coverage sequencing data from 150,119 UK Biobank genomes[J]. Nature Genetics, 2023, 55(7): 1088-1090. <https://www.nature.com/articles/s41588-023-01438-3>`_
+
+`Shi S, Rubinacci S, Hu S, et al. A Genomics England haplotype reference panel and the imputation of the UK Biobank[J]. medRxiv, 2023: 2023.11. 06.23298035. <https://www.medrxiv.org/content/10.1101/2023.11.06.23298035v1>`_
 
 `phasing_genotyping <./phasing_genotyping/>`_
 ####################################################################
