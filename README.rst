@@ -156,13 +156,10 @@ Other
 `Li Y, DeVito R, Mousavi N, et al. A deep population reference panel of tandem repeat variation[J]. Nature Communications, 2023, 14(1): 6711-6711. <https://www.nature.com/articles/s41467-023-42278-3>`_
 
 `WES-biobank </WES/>`_
-####################################################################
 
 `Bioinformatics Documents <./bioinformatics/>`_
-#####################################################################
 
 `PGx_STR(药物基因组以及短重复序列) <./PGx_STR/>`_
-####################################################################
 
 `Medical_genes(医学临床相关基因) <./Medical_genes/>`_
 ####################################################################
