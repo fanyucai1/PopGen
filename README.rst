@@ -39,13 +39,12 @@ Get started with PopGen
     --cnv-enable-self-normalization=true \
     --vc-enable-joint-detection=true
 
-PopGen data processing and analysis workflows using the DRAGEN Platform (left) and GATK best practices (right) workflows
-########################################################################################################################################
+**PopGen data processing and analysis workflows using the DRAGEN Platform (left) and GATK best practices (right) workflows**
 
 .. image:: png/dragen-popgen.png
 
-Global genomic biobanks and studies
-########################################################################################################################################
+**Global genomic biobanks and studies**
+
 .. image:: png/cohort-studies.png
 
 `Carress H, Lawson D J, Elhaik E. Population genetic considerations for using biobanks as international resources in the pandemic era and beyond[J]. BMC genomics, 2021, 22: 1-19. <https://link.springer.com/article/10.1186/s12864-021-07618-x>`_
@@ -68,10 +67,8 @@ Large-scale cohort studies with genomic information
 `Tanjo T, Kawai Y, Tokunaga K, et al. Practical guide for managing large-scale human genome data in research[J]. Journal of Human Genetics, 2021, 66(1): 39-52. <https://www.nature.com/articles/s10038-020-00862-1>`_
 
 UK Biobank:https://www.ukbiobank.ac.uk
---------------------------------------------------------------------------------------
+########################################################################################################################################
 .. image:: png/genetic-data-sept2022.jpg
-
-**Biobank study involving 500,000 residents in the UK.**
 
 `UK Biobank Allele Frequency Browser：https://afb.ukbiobank.ac.uk/ <https://afb.ukbiobank.ac.uk/>`_
 
@@ -80,7 +77,7 @@ UK Biobank:https://www.ukbiobank.ac.uk
 `Halldorsson B V, Eggertsson H P, Moore K H S, et al. The sequences of 150,119 genomes in the UK Biobank[J]. Nature, 2022, 607(7920): 732-740. <https://www.nature.com/articles/s41586-022-04965-x>`_
 
 Genomics England:https://www.genomicsengland.co.uk/
---------------------------------------------------------------------------------------------------------------
+########################################################################################################################################
 **WGS-based genome study of patient with rare disease and their families and cancer patients in England:**
 
 `Cancer_rare-disease_Covid-19 <./Genomics_England/>`_
