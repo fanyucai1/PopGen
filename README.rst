@@ -133,6 +133,12 @@ Qatar genome
 
 `Qatar Genome Program is about to enter a new era thanks to Illumina #DRAGEN. <https://www.linkedin.com/posts/hamdimbarek_dragen-v4-40k-activity-7154747419908268032-Piej>`_
 
+TaiwanGenomes
+------------------------
+.. image:: png/TaiwanGenomes.jpg
+
+`Hsu J S, Wu D C, Shih S H, et al. Complete genomic profiles of 1,496 Taiwanese reveal curated medical insights[J]. Journal of Advanced Research, 2023. <https://www.sciencedirect.com/science/article/pii/S2090123223004058>`_
+
 Other
 ------------------------
 `Shi S, Rubinacci S, Hu S, et al. A Genomics England haplotype reference panel and the imputation of the UK Biobank[J]. medRxiv, 2023: 2023.11. 06.23298035. <https://www.medrxiv.org/content/10.1101/2023.11.06.23298035v1>`_
@@ -142,8 +148,6 @@ Other
 `1000 Genomes Project (1kGP):Byrska-Bishop M, Evani U S, Zhao X, et al. High-coverage whole-genome sequencing of the expanded 1000 Genomes Project cohort including 602 trios[J]. Cell, 2022, 185(18): 3426-3440. e19. <https://doi.org/10.1016/j.cell.2022.08.004>`_
 
 `Carress H, Lawson D J, Elhaik E. Population genetic considerations for using biobanks as international resources in the pandemic era and beyond[J]. BMC genomics, 2021, 22(1): 1-19. <https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07618-x>`_
-
-`Taiwan Biobank (TWB) project:Hsu J S, Wu D C, Shih S H, et al. Complete genomic profiles of 1,496 Taiwanese reveal curated medical insights[J]. Journal of Advanced Research, 2023. <https://www.sciencedirect.com/science/article/pii/S2090123223004058>`_
 
 `Choi J, Kim S, Kim J, et al. A whole-genome reference panel of 14,393 individuals for East Asian populations accelerates discovery of rare functional variants[J]. Science Advances, 2023, 9(32): eadg6319. <https://www.science.org/doi/full/10.1126/sciadv.adg6319>`_
 
