@@ -43,8 +43,8 @@ Get started with PopGen
 
 .. image:: png/dragen-popgen.png
 
-**Global genomic biobanks and studies**
-
+Global genomic biobanks and studies
+########################################################################################################################################
 .. image:: png/cohort-studies.png
 
 `Carress H, Lawson D J, Elhaik E. Population genetic considerations for using biobanks as international resources in the pandemic era and beyond[J]. BMC genomics, 2021, 22: 1-19. <https://link.springer.com/article/10.1186/s12864-021-07618-x>`_
