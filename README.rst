@@ -103,13 +103,13 @@ China
 
 `Zhang P, Luo H, Li Y, et al. NyuWa Genome resource: a deep whole-genome sequencing-based variation profile and reference panel for the Chinese population[J]. Cell reports, 2021, 37(7). <https://www.cell.com/cell-reports/pdf/S2211-1247(21)01499-6.pdf>`_
 
-IndiGenomes
+IndiGenomes:https://clingen.igib.res.in/indigen/
 ########################################################################################################################################
 .. image:: png/Indigenomes.jpg
 
 `Jain A, Bhoyar R C, Pandhare K, et al. IndiGenomes: a comprehensive resource of genetic variants from over 1000 Indian genomes[J]. Nucleic Acids Research, 2021, 49(D1): D1225-D1232. <https://academic.oup.com/nar/article/49/D1/D1225/5937082?login=true>`_
 
-Qatar genome
+Qatar genome:https://www.qatargenome.org.qa
 ########################################################################################################################################
 .. image:: png/Qatar_genome.jpg
 
@@ -117,7 +117,7 @@ Qatar genome
 
 `Qatar Genome Program is about to enter a new era thanks to Illumina #DRAGEN. <https://www.linkedin.com/posts/hamdimbarek_dragen-v4-40k-activity-7154747419908268032-Piej>`_
 
-TaiwanGenomes
+TaiwanGenomes:https://genomes.tw/#/
 ########################################################################################################################################
 .. image:: png/TaiwanGenomes.jpg
 
@@ -155,7 +155,7 @@ East Asian populations
 ########################################################################################################################################
 `Choi J, Kim S, Kim J, et al. A whole-genome reference panel of 14,393 individuals for East Asian populations accelerates discovery of rare functional variants[J]. Science Advances, 2023, 9(32): eadg6319. <https://www.science.org/doi/full/10.1126/sciadv.adg6319>`_
 
-method
+Method
 ########################################################################################################################################
 `WES-biobank </WES/>`_
 ------------------------------------------------------------------------
