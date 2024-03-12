@@ -67,7 +67,7 @@ Large-scale cohort studies with genomic information
 +--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
 `Tanjo T, Kawai Y, Tokunaga K, et al. Practical guide for managing large-scale human genome data in research[J]. Journal of Human Genetics, 2021, 66(1): 39-52. <https://www.nature.com/articles/s10038-020-00862-1>`_
 
-UK-biobank:https://www.ukbiobank.ac.uk
+UK Biobank:https://www.ukbiobank.ac.uk
 --------------------------------------------------------------------------------------
 .. image:: png/genetic-data-sept2022.jpg
 
@@ -79,7 +79,7 @@ UK-biobank:https://www.ukbiobank.ac.uk
 
 `Halldorsson B V, Eggertsson H P, Moore K H S, et al. The sequences of 150,119 genomes in the UK Biobank[J]. Nature, 2022, 607(7920): 732-740. <https://www.nature.com/articles/s41586-022-04965-x>`_
 
-`Genomics England:https://www.genomicsengland.co.uk/ <https://www.genomicsengland.co.uk/>`
+Genomics England:https://www.genomicsengland.co.uk/
 --------------------------------------------------------------------------------------------------------------
 **WGS-based genome study of patient with rare disease and their families and cancer patients in England:**
 
@@ -139,7 +139,7 @@ TaiwanGenomes
 
 `Hsu J S, Wu D C, Shih S H, et al. Complete genomic profiles of 1,496 Taiwanese reveal curated medical insights[J]. Journal of Advanced Research, 2023. <https://www.sciencedirect.com/science/article/pii/S2090123223004058>`_
 
-`1000 Genomes Project <https://www.internationalgenome.org>`
+1000 Genomes Project:https://www.internationalgenome.org
 ------------------------------------------------------------------------
 **Determining the human genetic variation by means of whole-genome sequencing in population scale.**
 
@@ -147,7 +147,7 @@ TaiwanGenomes
 
 `1KG Project reference panel:http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/ <http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/>`_
 
-`GenomeAsia 100K Project <https://genomeasia100k.org/>`_
+`GenomeAsia 100K Project:https://genomeasia100k.org/
 ------------------------------------------------------------------------
 **WGS-based genome study of people in South and East Asia.**
 
