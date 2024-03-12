@@ -58,18 +58,10 @@ Large-scale cohort studies with genomic information
 | Human Genome Project (HGP)     | The Initial sequencing program of the human genome                                                    | https://www.genome.gov/human-genome-project                                                 | International  |
 +--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
 | International HapMap Project   | Study of the common pattern of human genetic variation using SNP array                                | https://www.genome.gov/10001688/international-hapmap-project                                | International  |
-+--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
-| 1000 Genomes Project           | Determining the human genetic variation by means of whole-genome sequencing in population scale       | https://www.internationalgenome.org                                                         | International  |
-+--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
++--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------++--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
 | Human Genome Diversity Project | Biological samples and genetic data collection from different population groups throughout the world  | https://www.hagsc.org/hgdp/                                                                 | International  |
 +--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
 | Simon Genome Diversity Project | Whole-genome sequencing project of diverse human populations                                          | https://docs.cancergenomicscloud.org/v1.0/docs/simons-genome-diversity-project-sgdp-dataset | International  |
-+--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
-| Genome Asia 100k               | WGS-based genome study of people in South and East Asia                                               | https://genomeasia100k.org/                                                                 | International  |
-+--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
-| UK Biobank                     | Biobank study involving 500,000 residents in the UK                                                   | https://www.ukbiobank.ac.uk                                                                 | UK             |
-+--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
-| Genomics England               | WGS-based genome study of patient with rare disease and their families and cancer patients in England | https://www.genomicsengland.co.uk/                                                          | UK             |
 +--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
 | FinnGen                        | Nationwide biobank and genome cohort study in Finland                                                 | https://www.finngen.fi/en                                                                   | Finnland       |
 +--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
@@ -79,13 +71,19 @@ UK-biobank
 -------------------
 .. image:: png/genetic-data-sept2022.jpg
 
-`biobank主页:https://www.ukbiobank.ac.uk <https://www.ukbiobank.ac.uk>`_
+**Biobank study involving 500,000 residents in the UK:**`https://www.ukbiobank.ac.uk <https://www.ukbiobank.ac.uk>`_
 
 `UK Biobank Allele Frequency Browser：https://afb.ukbiobank.ac.uk/ <https://afb.ukbiobank.ac.uk/>`_
 
 `UK Biobank Whole-Genome Sequencing Consortium, Li S, Carss K J, et al. Whole-genome sequencing of half-a-million UK Biobank participants[J]. medRxiv, 2023: 2023.12. 06.23299426. <https://www.medrxiv.org/content/10.1101/2023.12.06.23299426v1>`_
 
 `Halldorsson B V, Eggertsson H P, Moore K H S, et al. The sequences of 150,119 genomes in the UK Biobank[J]. Nature, 2022, 607(7920): 732-740. <https://www.nature.com/articles/s41586-022-04965-x>`_
+
+Genomics England
+------------------------
+**WGS-based genome study of patient with rare disease and their families and cancer patients in England:**`https://www.genomicsengland.co.uk/<https://www.genomicsengland.co.uk/>`_
+
+`Cancer_rare-disease_Covid-19 <./Genomics_England/>`_
 
 All of US
 --------------------
@@ -143,13 +141,17 @@ TaiwanGenomes
 
 1000 Genomes Project
 ------------------------
+**Determining the human genetic variation by means of whole-genome sequencing in population scale:**`https://www.internationalgenome.org <https://www.internationalgenome.org>`_
+
 `Byrska-Bishop M, Evani U S, Zhao X, et al. High-coverage whole-genome sequencing of the expanded 1000 Genomes Project cohort including 602 trios[J]. Cell, 2022, 185(18): 3426-3440. e19. <https://doi.org/10.1016/j.cell.2022.08.004>`_
+
+`1KG Project reference panel:http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/ <http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/>`_
 
 GenomeAsia 100K Project
 ------------------------
-`The GenomeAsia 100K Project enables genetic discoveries across Asia[J]. Nature, 2019, 576(7785): 106-111. <https://www.nature.com/articles/s41586-019-1793-z>`_
+**WGS-based genome study of people in South and East Asia:**`https://genomeasia100k.org/ <https://genomeasia100k.org/ >`_
 
-`1KG Project reference panel:http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/ <http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/>`_
+`The GenomeAsia 100K Project enables genetic discoveries across Asia[J]. Nature, 2019, 576(7785): 106-111. <https://www.nature.com/articles/s41586-019-1793-z>`_
 
 Mexico City
 ------------------------
