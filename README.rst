@@ -57,7 +57,7 @@ Large-scale cohort studies with genomic information
 | Human Genome Project (HGP)     | The Initial sequencing program of the human genome                                                    | https://www.genome.gov/human-genome-project                                                 | International  |
 +--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
 | International HapMap Project   | Study of the common pattern of human genetic variation using SNP array                                | https://www.genome.gov/10001688/international-hapmap-project                                | International  |
-+--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------++--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
++--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
 | Human Genome Diversity Project | Biological samples and genetic data collection from different population groups throughout the world  | https://www.hagsc.org/hgdp/                                                                 | International  |
 +--------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------+
 | Simon Genome Diversity Project | Whole-genome sequencing project of diverse human populations                                          | https://docs.cancergenomicscloud.org/v1.0/docs/simons-genome-diversity-project-sgdp-dataset | International  |
@@ -83,7 +83,7 @@ Genomics England:https://www.genomicsengland.co.uk/
 `Cancer_rare-disease_Covid-19 <./Genomics_England/>`_
 
 All of US
---------------------
+########################################################################################################################################
 .. image:: png/all_of_us.png
 
 `All of Us:All of Us Research Program Genomics Investigators. Genomic data in the All of Us Research Program[J]. Nature. <https://www.nature.com/articles/s41586-023-06957-x>`_
@@ -93,7 +93,7 @@ All of US
 `Lennon N J, Kottyan L C, Kachulis C, et al. Selection, optimization and validation of ten chronic disease polygenic risk scores for clinical implementation in diverse US populations[J]. Nature Medicine, 2024: 1-8. <https://www.nature.com/articles/s41591-024-02796-z#Sec10>`_
 
 PRECISE-SG100K Dataset
----------------------------
+########################################################################################################################################
 .. image:: png/Singapore.png
 
 `SG10K:Wu D, Dou J, Chai X, et al. Large-scale whole-genome sequencing of three diverse Asian populations in Singapore[J]. Cell, 2019, 179(3): 736-749. e15. <https://www.cell.com/cell/pdf/S0092-8674(19)31070-0.pdf>`_
@@ -109,7 +109,7 @@ PRECISE-SG100K Dataset
 `“Call for Proposals” meeting:https://file.for.sg/sg100k-cfp.pdf <https://file.for.sg/sg100k-cfp.pdf>`_
 
 China
-------------------------
+########################################################################################################################################
 `ChinaMAP:Cao Y, Li L, Xu M, et al. The ChinaMAP analytics of deep whole genome sequences in 10,588 individuals[J]. Cell research, 2020, 30(9): 717-731. <https://www.nature.com/articles/s41422-020-0322-9>`_
 
 `Westlake BioBank:Cong P K, Bai W Y, Li J C, et al. Genomic analyses of 10,376 individuals in the Westlake BioBank for Chinese (WBBC) pilot project[J]. Nature Communications, 2022, 13(1): 2939. <https://www.nature.com/articles/s41467-022-30526-x>`_
@@ -119,11 +119,11 @@ China
 `Zhang P, Luo H, Li Y, et al. NyuWa Genome resource: a deep whole-genome sequencing-based variation profile and reference panel for the Chinese population[J]. Cell reports, 2021, 37(7). <https://www.cell.com/cell-reports/pdf/S2211-1247(21)01499-6.pdf>`_
 
 IndiGenomes
-------------------------
+########################################################################################################################################
 `Jain A, Bhoyar R C, Pandhare K, et al. IndiGenomes: a comprehensive resource of genetic variants from over 1000 Indian genomes[J]. Nucleic Acids Research, 2021, 49(D1): D1225-D1232. <https://academic.oup.com/nar/article/49/D1/D1225/5937082?login=true>`_
 
 Qatar genome
-------------------------
+########################################################################################################################################
 .. image:: png/Qatar_genome.jpg
 
 `Mbarek H, Devadoss Gandhi G, Selvaraj S, et al. Qatar genome: Insights on genomics from the Middle East[J]. Human mutation, 2022, 43(4): 499-510. <https://onlinelibrary.wiley.com/doi/full/10.1002/humu.24336>`_
@@ -131,13 +131,13 @@ Qatar genome
 `Qatar Genome Program is about to enter a new era thanks to Illumina #DRAGEN. <https://www.linkedin.com/posts/hamdimbarek_dragen-v4-40k-activity-7154747419908268032-Piej>`_
 
 TaiwanGenomes
-------------------------
+########################################################################################################################################
 .. image:: png/TaiwanGenomes.jpg
 
 `Hsu J S, Wu D C, Shih S H, et al. Complete genomic profiles of 1,496 Taiwanese reveal curated medical insights[J]. Journal of Advanced Research, 2023. <https://www.sciencedirect.com/science/article/pii/S2090123223004058>`_
 
 1000 Genomes Project:https://www.internationalgenome.org
-------------------------------------------------------------------------
+########################################################################################################################################
 **Determining the human genetic variation by means of whole-genome sequencing in population scale.**
 
 `Byrska-Bishop M, Evani U S, Zhao X, et al. High-coverage whole-genome sequencing of the expanded 1000 Genomes Project cohort including 602 trios[J]. Cell, 2022, 185(18): 3426-3440. e19. <https://doi.org/10.1016/j.cell.2022.08.004>`_
@@ -145,13 +145,13 @@ TaiwanGenomes
 `1KG Project reference panel:http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/ <http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/>`_
 
 `GenomeAsia 100K Project:https://genomeasia100k.org/
-------------------------------------------------------------------------
+########################################################################################################################################
 **WGS-based genome study of people in South and East Asia.**
 
 `The GenomeAsia 100K Project enables genetic discoveries across Asia[J]. Nature, 2019, 576(7785): 106-111. <https://www.nature.com/articles/s41586-019-1793-z>`_
 
 Mexico City
-------------------------
+########################################################################################################################################=
 `Ziyatdinov A, Torres J, Alegre-Díaz J, et al. Genotyping, sequencing and analysis of 140,000 adults from Mexico City[J]. Nature, 2023, 622(7984): 784-793. <https://www.nature.com/articles/s41586-023-06595-3>`_
 
 Other
