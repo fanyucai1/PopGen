@@ -73,7 +73,7 @@ All of US:https://allofus.nih.gov
 
 `All of Us Research Program Genomics Investigators. Genomic data in the All of Us Research Program[J]. Nature. <https://www.nature.com/articles/s41586-023-06957-x>`_
 
-`Mahmoud M, Huang Y, Garimella K, et al. Utility of long-read sequencing for All of Us[J]. bioRxiv, 2023: 2023.01. 23.525236. <https://www.biorxiv.org/content/10.1101/2023.01.23.525236v1.abstract>`_
+`Mahmoud M, Huang Y, Garimella K, et al. Utility of long-read sequencing for All of Us[J]. bioRxiv, 2023: 2023.01. 23.525236. <https://www.nature.com/articles/s41467-024-44804-3.pdf>`_
 
 `Lennon N J, Kottyan L C, Kachulis C, et al. Selection, optimization and validation of ten chronic disease polygenic risk scores for clinical implementation in diverse US populations[J]. Nature Medicine, 2024: 1-8. <https://www.nature.com/articles/s41591-024-02796-z#Sec10>`_
 
