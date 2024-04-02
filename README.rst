@@ -155,6 +155,13 @@ East Asian populations
 ########################################################################################################################################
 `Choi J, Kim S, Kim J, et al. A whole-genome reference panel of 14,393 individuals for East Asian populations accelerates discovery of rare functional variants[J]. Science Advances, 2023, 9(32): eadg6319. <https://www.science.org/doi/full/10.1126/sciadv.adg6319>`_
 
+Global Biobank Meta-analysis Initiative:https://www.globalbiobankmeta.org
+########################################################################################################################################
+.. image:: png/GBMI.png
+
+`Zhou W, Kanai M, Wu K H H, et al. Global Biobank Meta-analysis Initiative: Powering genetic discovery across human disease[J]. Cell Genomics, 2022, 2(10). <https://www.cell.com/cell-genomics/pdf/S2666-979X(22)00141-0.pdf>`_
+
+
 Method
 ########################################################################################################################################
 `WES-biobank </WES/>`_
